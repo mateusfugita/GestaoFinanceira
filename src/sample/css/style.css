@@ -1,0 +1,32 @@
+.button1{
+-fx-background-color : #1C1C1C;
+}
+.button1:hover{
+-fx-background-color : #4169E1;
+-fx-background-radius : 40px 0px 0px 40px;
+}
+.separator{
+-fx-background-color: #4682B4;
+}
+.btn_login{
+-fx-background-color:  #000000
+}
+.btn_login:hover{
+-fx-background-color: #fff;
+-fx-text-fill: #000000;
+}
+.text-input
+{
+-fx-text-fill : #fff;
+-fx-background-color : #000000;
+-fx-border-radius : 10px;
+-fx-border-color :  #4682B4
+}
+
+.jfx-hamburger {
+	-fx-background-color: #fff;
+}
+
+.jfx-hamburger StackPane {
+	-fx-background-color:  #4682B4;
+}

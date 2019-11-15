@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.*?>
+<?import javafx.scene.image.*?>
+<?import java.net.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="401.0" prefWidth="477.0" style="-fx-background-color: #000000;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.controllers.LoginController">
+    <children>
+        <Pane layoutY="75.0" prefHeight="325.0" prefWidth="477.0" style="-fx-background-color: #000000;">
+            <children>
+                <TextField alignment="CENTER" layoutX="170.0" layoutY="83.0" prefHeight="38.0" prefWidth="248.0" stylesheets="@../css/style.css">
+                    <font>
+                        <Font size="14.0" />
+                    </font></TextField>
+                <Label layoutX="36.0" layoutY="83.0" text="  Name" textFill="WHITE">
+                    <font>
+                        <Font size="18.0" />
+                    </font>
+                    <graphic>
+                        <ImageView fitHeight="31.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
+                            <image>
+                                <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_bank_card_back_side_32px.png" />
+                            </image>
+                        </ImageView>
+                    </graphic>
+                </Label>
+                <PasswordField alignment="CENTER" layoutX="172.0" layoutY="140.0" prefHeight="38.0" prefWidth="248.0" stylesheets="@../css/style.css">
+                    <font>
+                        <Font size="14.0" />
+                    </font></PasswordField>
+                <Label layoutX="36.0" layoutY="140.0" text="  Password" textFill="WHITE">
+                    <font>
+                        <Font size="18.0" />
+                    </font>
+                    <graphic>
+                        <ImageView fitHeight="31.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
+                            <image>
+                                <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_password_32px.png" />
+                            </image>
+                        </ImageView>
+                    </graphic>
+                </Label>
+                <Separator layoutX="29.0" layoutY="202.0" opacity="0.15" prefHeight="4.0" prefWidth="392.0" style="-fx-background-color: #4682B4;" />
+                <Separator layoutX="29.0" layoutY="38.0" opacity="0.15" prefHeight="4.0" prefWidth="392.0" style="-fx-background-color: #4682B4;" />
+                <Button alignment="BASELINE_LEFT" layoutX="179.0" layoutY="233.0" mnemonicParsing="false" onAction="#SignIn" onMouseClicked="#SignIn" prefHeight="27.0" prefWidth="116.0" style="-fx-border-color: #4682B4; -fx-border-radius: 10;" styleClass="btn_login" stylesheets="@../css/style.css" text="SIGN IN" textFill="#fffdfd">
+                    <graphic>
+                        <ImageView fx:id="btnLogin" fitHeight="24.0" fitWidth="26.0" pickOnBounds="true" preserveRatio="true">
+                            <image>
+                                <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_key_32px.png" />
+                            </image>
+                        </ImageView>
+                    </graphic>
+                    <cursor>
+                        <Cursor fx:constant="HAND" />
+                    </cursor>
+                </Button>
+                <Label layoutX="211.0" layoutY="-13.0" text="LOGIN" textFill="WHITE">
+                    <font>
+                        <Font size="18.0" />
+                    </font>
+                </Label>
+                <Label fx:id="lblRegister" layoutX="178.0" layoutY="294.0" onMouseClicked="#Register" text="Don't have an account" textFill="STEELBLUE">
+                    <cursor>
+                        <Cursor fx:constant="HAND" />
+                    </cursor></Label>
+            </children>
+        </Pane>
+        <Label layoutX="456.0" layoutY="14.0" textFill="WHITE">
+            <font>
+                <Font size="18.0" />
+            </font>
+        </Label>
+        <Button alignment="BASELINE_LEFT" layoutX="421.0" layoutY="11.0" mnemonicParsing="false" onAction="#Close" prefHeight="34.0" prefWidth="37.0" styleClass="btn_login" stylesheets="@../css/style.css" textFill="#fffdfd">
+            <graphic>
+                <ImageView fitHeight="24.0" fitWidth="26.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_cancel_filled_50px.png" />
+                    </image>
+                    <cursor>
+                        <Cursor fx:constant="HAND" />
+                    </cursor>
+                </ImageView>
+            </graphic>
+            <cursor>
+                <Cursor fx:constant="HAND" />
+            </cursor>
+        </Button>
+    </children>
+</AnchorPane>

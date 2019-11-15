@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="587.0" prefWidth="986.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.controllers.MenuController">
+   <children>
+      <Pane layoutX="-1.0" prefHeight="181.0" prefWidth="225.0" style="-fx-background-color: #000000;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <VBox layoutY="200.0" prefHeight="348.0" prefWidth="225.0" style="-fx-background-color: #1C1C1C;">
+               <children>
+                  <Separator opacity="0.5" prefWidth="200.0" style="-fx-background-color: #4682B4;" />
+                  <Button alignment="BASELINE_LEFT" mnemonicParsing="false" prefHeight="57.0" prefWidth="225.0" styleClass="button1" stylesheets="@../css/style.css" text="    Home" textFill="WHITE">
+                     <padding>
+                        <Insets left="50.0" />
+                     </padding>
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <graphic>
+                        <ImageView fitHeight="31.0" fitWidth="35.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_home_filled_50px_2.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+                  <Button alignment="BASELINE_LEFT" mnemonicParsing="false" onAction="#GoFeed" prefHeight="57.0" prefWidth="225.0" styleClass="button1" stylesheets="@../css/style.css" text="    Feed" textFill="WHITE">
+                     <padding>
+                        <Insets left="50.0" />
+                     </padding>
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <graphic>
+                        <ImageView fitHeight="31.0" fitWidth="35.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_activity_feed_filled_50px.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+                  <Button alignment="BASELINE_LEFT" mnemonicParsing="false" onAction="#GoTransactions" prefHeight="57.0" prefWidth="225.0" styleClass="button1" stylesheets="@../css/style.css" text="    Transactions" textFill="WHITE">
+                     <padding>
+                        <Insets left="50.0" />
+                     </padding>
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <graphic>
+                        <ImageView fitHeight="31.0" fitWidth="35.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_cashflow_50px.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+                  <Button alignment="BASELINE_LEFT" mnemonicParsing="false" onAction="#GoCharts" prefHeight="57.0" prefWidth="225.0" styleClass="button1" stylesheets="@../css/style.css" text="    Charts" textFill="WHITE">
+                     <padding>
+                        <Insets left="50.0" />
+                     </padding>
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <graphic>
+                        <ImageView fitHeight="31.0" fitWidth="35.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_combo_chart_filled_50px_1.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+                  <Button alignment="BASELINE_LEFT" mnemonicParsing="false" onAction="#GoHigherExpenses" prefHeight="57.0" prefWidth="225.0" styleClass="button1" stylesheets="@../css/style.css" text="    Higher Expenses" textFill="WHITE">
+                     <padding>
+                        <Insets left="50.0" />
+                     </padding>
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <graphic>
+                        <ImageView fitHeight="31.0" fitWidth="35.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_money_bag_filled_50px.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+                  <Button alignment="BASELINE_LEFT" mnemonicParsing="false" onAction="#GoAbout" prefHeight="57.0" prefWidth="225.0" styleClass="button1" stylesheets="@../css/style.css" text="    About" textFill="WHITE">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <graphic>
+                        <ImageView fitHeight="31.0" fitWidth="35.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_user_filled_50px.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                     <padding>
+                        <Insets left="50.0" />
+                     </padding>
+                  </Button>
+                  <Separator opacity="0.5" prefHeight="3.0" prefWidth="237.0" style="-fx-background-color: #4682B4;" />
+               </children>
+            </VBox>
+            <ImageView fitHeight="103.0" fitWidth="102.0" layoutX="62.0" layoutY="48.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/C:/Users/jp230/IdeaProjects/Modelos%20de%20Tela/src/Images/ben-affleck.png" />
+               </image>
+            </ImageView>
+            <Button alignment="BASELINE_LEFT" contentDisplay="CENTER" layoutX="167.0" layoutY="14.0" mnemonicParsing="false" prefHeight="28.0" prefWidth="32.0" style="-fx-background-color: #000000;" stylesheets="@../css/style.css" textFill="WHITE">
+               <font>
+                  <Font size="14.0" />
+               </font>
+               <graphic>
+                  <ImageView fitHeight="24.0" fitWidth="29.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_menu_filled_50px.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Label layoutX="71.0" layoutY="164.0" prefHeight="27.0" prefWidth="96.0" text="User Name" textFill="WHITE">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+         </children></Pane>
+      <Pane layoutX="225.0" prefHeight="41.0" prefWidth="762.0" style="-fx-background-color: #000000;">
+         <children>
+            <Button layoutX="703.0" layoutY="1.0" mnemonicParsing="false" onAction="#Close" prefHeight="40.0" prefWidth="44.0" style="-fx-background-color: #000000;" styleClass="button1" stylesheets="@../css/style.css" textFill="WHITE">
+               <font>
+                  <Font size="18.0" />
+               </font>
+               <graphic>
+                  <ImageView fitHeight="21.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_cancel_filled_50px.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button layoutX="613.0" layoutY="1.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="44.0" style="-fx-background-color: #000000;" styleClass="button1" stylesheets="@../css/style.css" textFill="WHITE">
+               <font>
+                  <Font size="18.0" />
+               </font>
+               <graphic>
+                  <ImageView fitHeight="21.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_minimize_window_filled_50px.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button layoutX="658.0" layoutY="1.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="44.0" style="-fx-background-color: #000000;" styleClass="button1" stylesheets="@../css/style.css" textFill="WHITE">
+               <font>
+                  <Font size="18.0" />
+               </font>
+               <graphic>
+                  <ImageView fitHeight="21.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_maximize_window_filled_50px.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+         </children>
+      </Pane>
+      <AnchorPane layoutX="225.0" layoutY="41.0" prefHeight="527.0" prefWidth="565.0" style="-fx-background-color: #808080;">
+         <children>
+            <Pane fx:id="pnlHigherExpenses" prefHeight="546.0" prefWidth="761.0" style="-fx-background-color: #778899;">
+               <children>
+                  <Pane prefHeight="86.0" prefWidth="761.0" style="-fx-background-color: #1C1C1C;">
+                     <children>
+                        <Separator layoutY="85.0" prefHeight="3.0" prefWidth="762.0" style="-fx-background-color: #387AA7;" />
+                        <Label layoutX="62.0" layoutY="19.0" prefHeight="53.0" prefWidth="284.0" text="Higher Expenses" textFill="#387aa7">
+                           <font>
+                              <Font size="36.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </Pane>
+               </children></Pane>
+            <Pane fx:id="pnlTransactions" prefHeight="546.0" prefWidth="761.0" style="-fx-background-color: #778899;">
+               <children>
+                  <Pane prefHeight="86.0" prefWidth="761.0" style="-fx-background-color: #1C1C1C;">
+                     <children>
+                        <Separator layoutY="85.0" prefHeight="3.0" prefWidth="762.0" style="-fx-background-color: #387AA7;" />
+                        <Label layoutX="62.0" layoutY="19.0" prefHeight="53.0" prefWidth="284.0" text="Transactions" textFill="#387aa7">
+                           <font>
+                              <Font size="36.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </Pane>
+               </children></Pane>
+            <Pane fx:id="pnlChart" prefHeight="546.0" prefWidth="761.0" style="-fx-background-color: #778899;">
+               <children>
+                  <Pane prefHeight="86.0" prefWidth="761.0" style="-fx-background-color: #1C1C1C;">
+                     <children>
+                        <Label layoutX="62.0" layoutY="19.0" prefHeight="53.0" prefWidth="284.0" text="Charts" textFill="#387aa7">
+                           <font>
+                              <Font size="36.0" />
+                           </font>
+                        </Label>
+                        <Separator layoutY="85.0" prefHeight="3.0" prefWidth="762.0" style="-fx-background-color: #387AA7;" />
+                     </children>
+                  </Pane>
+               </children></Pane>
+            <Pane fx:id="pnlFeed" prefHeight="546.0" prefWidth="761.0" style="-fx-background-color: #778899;">
+               <children>
+                  <Pane prefHeight="86.0" prefWidth="761.0" style="-fx-background-color: #1C1C1C;">
+                     <children>
+                        <Separator layoutY="85.0" prefHeight="3.0" prefWidth="762.0" style="-fx-background-color: #387AA7;" />
+                        <Label layoutX="62.0" layoutY="19.0" prefHeight="53.0" prefWidth="284.0" text="Feed" textFill="#387aa7">
+                           <font>
+                              <Font size="36.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </Pane>
+               </children></Pane>
+            <Pane fx:id="pnlAbout" prefHeight="546.0" prefWidth="761.0" style="-fx-background-color: #778899;">
+               <children>
+                  <Pane prefHeight="86.0" prefWidth="761.0" style="-fx-background-color: #1C1C1C;">
+                     <children>
+                        <Separator layoutY="85.0" prefHeight="3.0" prefWidth="762.0" style="-fx-background-color: #387AA7;" />
+                        <Label layoutX="62.0" layoutY="19.0" prefHeight="53.0" prefWidth="284.0" text="About" textFill="#387aa7">
+                           <font>
+                              <Font size="36.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </Pane>
+               </children></Pane>
+         </children></AnchorPane>
+   </children>
+</AnchorPane>
