@@ -22,8 +22,8 @@ public class RegisterController {
     public static Connection getConexao(){
         Connection conexao = null;
         try{
-            conexao = DriverManager.getConnection("jdbc:mysql://localhost/financeira?useTimezone=true&serverTimezone=UTC", "root", "1234");
-            //conexao = DriverManager.getConnection("jdbc:mysql://localhost/Financeira", "root");
+            conexao = DriverManager.getConnection("jdbc:mysql://localhost/financeira?useTimezone=true&serverTimezone=UTC", "root", "");
+            //conexao = DriverManager.getConnection("jdbc:mysql://localhost/financeira", "root");
             System.out.println("Conectado");
         }
         catch(SQLException e){
