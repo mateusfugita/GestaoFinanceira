@@ -1,6 +1,6 @@
 package VO;
 
-public class PadraoVO {
+public abstract class PadraoVO {
     private int id;
 
     public int getId() {
