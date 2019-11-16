@@ -55,10 +55,10 @@ public class RegisterController {
     }
     @FXML
     public void Save(javafx.event.ActionEvent actionEvent){
-        inserir("SILVIO","SILVIO","1234");
+        //inserir("SILVIO","SILVIO","1234");
+        inserir(txtName.getText(), txtLogin.getText(), txtPassword.getText());
         JOptionPane.showMessageDialog(null,"Successful Registration");
         Main.changeScreen("login");
     }
-
 
 }
