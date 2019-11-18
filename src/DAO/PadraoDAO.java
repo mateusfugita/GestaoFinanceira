@@ -17,7 +17,7 @@ public abstract class PadraoDAO {
     public void inserir(PadraoVO vo) throws SQLException{
         try(Connection c = ConexaoBD.getInstance().getConexao()){
             //CallableStatement stmt = c.prepareCall((nomeProcedureInsert()));
-            criarParametros(c, vo).executeUpdate();
+            criarParametros(c, vo, nomeProcedureInsert()).executeUpdate();
         }
         catch (SQLException e){
             e.printStackTrace();
@@ -27,7 +27,7 @@ public abstract class PadraoDAO {
     public void atualizar(PadraoVO vo){
         try(Connection c = ConexaoBD.getInstance().getConexao()){
             //CallableStatement stmt = c.prepareCall((nomeProcedureUpdate()));
-            criarParametros(c, vo).executeUpdate();
+            criarParametros(c, vo, nomeProcedureUpdate()).executeUpdate();
         }
         catch (SQLException e){
             e.printStackTrace();
@@ -36,7 +36,7 @@ public abstract class PadraoDAO {
 
     public void deletar(int id) throws SQLException {
         try(Connection c = ConexaoBD.getInstance().getConexao()) {
-            String query = "{CALL Deletar_BD(?, ?)}";
+            String query = "{CALL Deletar_BD(?, ?, ?)}";
             CallableStatement stmt = c.prepareCall(query);
             stmt.setString("Tabela", getTabela());
             stmt.setString("Chave", getChave());
@@ -48,7 +48,7 @@ public abstract class PadraoDAO {
         }
     }
 
-    public abstract CallableStatement criarParametros(Connection connection, PadraoVO o) throws SQLException;
+    public abstract CallableStatement criarParametros(Connection connection, PadraoVO o, String comando) throws SQLException;
 
     protected String getTabela() {
         return Tabela;
