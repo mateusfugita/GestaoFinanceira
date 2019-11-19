@@ -1,5 +1,7 @@
 package sample.controllers;
 
+import DAO.UsuarioDAO;
+import VO.UsuarioVO;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import sample.Main;
@@ -55,10 +57,33 @@ public class RegisterController {
     }
     @FXML
     public void Save(javafx.event.ActionEvent actionEvent){
+        try{
+            UsuarioVO usuario = new UsuarioVO();
+            usuario.setNome("Silvio");
+            usuario.setLogin("Silvio");
+            usuario.setSenha("1234");
+            UsuarioDAO usuarioDAO = new UsuarioDAO();
+            usuarioDAO.inserir(usuario);
+            //inserir("SILVIO","SILVIO","1234");
+            //inserir(txtName.getText(), txtLogin.getText(), txtPassword.getText());
+            JOptionPane.showMessageDialog(null,"Successful Registration");
+            Main.changeScreen("login");
+        }
+        catch (SQLException e){
+            e.printStackTrace();
+        }
+        /*
+        UsuarioVO usuario = new UsuarioVO();
+        usuario.setNome("Silvio");
+        usuario.setLogin("Silvio");
+        usuario.setSenha("1234");
+        UsuarioDAO usuarioDAO = new UsuarioDAO();
+        usuarioDAO.inserir(usuario);
         inserir("SILVIO","SILVIO","1234");
         //inserir(txtName.getText(), txtLogin.getText(), txtPassword.getText());
         JOptionPane.showMessageDialog(null,"Successful Registration");
         Main.changeScreen("login");
+         */
     }
 
 }

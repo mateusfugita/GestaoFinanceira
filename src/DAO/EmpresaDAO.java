@@ -23,7 +23,7 @@ public class EmpresaDAO extends PadraoDAO {
     }
 
     @Override
-    public CallableStatement criarParametros(Connection connection, PadraoVO o, String comando) throws SQLException {
+    protected CallableStatement criarParametros(Connection connection, PadraoVO o, String comando) throws SQLException {
         EmpresaVO empresa = (EmpresaVO)o;
         CallableStatement stmt = connection.prepareCall(comando);
         stmt.setInt("id", empresa.getId());

@@ -25,7 +25,7 @@ public class GastoDAO extends PadraoDAO {
     }
 
     @Override
-    public CallableStatement criarParametros(Connection connection, PadraoVO o, String comando) throws SQLException {
+    protected CallableStatement criarParametros(Connection connection, PadraoVO o, String comando) throws SQLException {
         GastoVO gastoVO = (GastoVO)o;
         CallableStatement stmt = connection.prepareCall(comando);
         stmt.setInt("", gastoVO.getId());

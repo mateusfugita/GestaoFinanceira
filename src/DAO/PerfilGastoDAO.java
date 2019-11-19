@@ -24,7 +24,7 @@ public class PerfilGastoDAO extends PadraoDAO {
     }
 
     @Override
-    public CallableStatement criarParametros(Connection connection, PadraoVO o, String comando) throws SQLException {
+    protected CallableStatement criarParametros(Connection connection, PadraoVO o, String comando) throws SQLException {
         PerfilGastoVO perfilGastoVO = (PerfilGastoVO)o;
         CallableStatement stmt = connection.prepareCall(comando);
         stmt.setInt("", perfilGastoVO.getId());

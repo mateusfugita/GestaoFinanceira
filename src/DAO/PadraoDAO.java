@@ -48,7 +48,7 @@ public abstract class PadraoDAO {
         }
     }
 
-    public abstract CallableStatement criarParametros(Connection connection, PadraoVO o, String comando) throws SQLException;
+    protected abstract CallableStatement criarParametros(Connection connection, PadraoVO o, String comando) throws SQLException;
 
     protected String getTabela() {
         return Tabela;
