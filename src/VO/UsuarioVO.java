@@ -6,6 +6,7 @@ public class UsuarioVO extends PadraoVO {
     private String senha;
     private int idPerfilGasto;
     private float saldo;
+    private int idade;
 
     public String getNome() {
         return nome;
@@ -45,5 +46,13 @@ public class UsuarioVO extends PadraoVO {
 
     public void setSaldo(float saldo) {
         this.saldo = saldo;
+    }
+
+    public int getIdade() {
+        return idade;
+    }
+
+    public void setIdade(int idade) {
+        this.idade = idade;
     }
 }
