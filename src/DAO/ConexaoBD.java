@@ -19,7 +19,7 @@ public class ConexaoBD {
     public static Connection getConexao(){
         Connection conexao = null;
         try{
-            conexao = DriverManager.getConnection("jdbc:mysql://localhost/financeira?useTimezone=true&serverTimezone=UTC", "root", "");
+            conexao = DriverManager.getConnection("jdbc:mysql://localhost/Financeira?useTimezone=true&serverTimezone=UTC", "root", "");
             //conexao = DriverManager.getConnection("jdbc:mysql://localhost/financeira", "root");
             System.out.println("Conectado");
         }

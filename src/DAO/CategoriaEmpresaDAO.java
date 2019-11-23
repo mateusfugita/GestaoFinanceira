@@ -9,7 +9,7 @@ import java.sql.SQLException;
 
 public class CategoriaEmpresaDAO extends PadraoDAO {
     public CategoriaEmpresaDAO(){
-        setTabela("tbl_Categoria");
+        setTabela("tbl_CatEmpresa");
         setChave("Id_Categoria");
     }
     @Override
@@ -19,15 +19,15 @@ public class CategoriaEmpresaDAO extends PadraoDAO {
 
     @Override
     protected String nomeProcedureUpdate() {
-        return "{CALL sp_atualizar_categoriaEmpresa(?)}";
+        return "{CALL sp_atualizar_categoriaEmpresa(?,?)}";
     }
 
     @Override
     protected CallableStatement criarParametros(Connection connection, PadraoVO o, String comando) throws SQLException {
         CategoriaEmpresaVO categoriaEmpresaVO = (CategoriaEmpresaVO)o;
         CallableStatement stmt = connection.prepareCall(comando);
-        stmt.setInt("", categoriaEmpresaVO.getId());
         stmt.setString("DescCategoria", categoriaEmpresaVO.getDescricao());
+        stmt.setInt(getChave(), categoriaEmpresaVO.getId());
         return stmt;
     }
 }

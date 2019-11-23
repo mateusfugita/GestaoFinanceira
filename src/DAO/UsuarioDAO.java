@@ -9,29 +9,29 @@ import java.sql.SQLException;
 
 public class UsuarioDAO extends PadraoDAO {
     public UsuarioDAO(){
-        setTabela("Usuario");
-        setChave("UsuarioId");
+        setTabela("tbl_Usuario");
+        setChave("Id_Usuario");
     }
 
     @Override
     protected String nomeProcedureInsert() {
-        return "{CALL Inserir_BD(?,?,?)}";
+        return "{CALL sp_inserir_usuario(?,?,?,?)}";
     }
 
     @Override
     protected String nomeProcedureUpdate() {
-        return "Altera_Usuario";
+        return "{CALL sp_atualizar_usuario(?,?,?,?,?,?,?)}";
     }
 
     @Override
     protected CallableStatement criarParametros(Connection connection, PadraoVO o, String comando) throws SQLException {
         CallableStatement stmt = connection.prepareCall(comando);
         UsuarioVO usuarioVO = (UsuarioVO)o;
-        //stmt.setInt("usuarioId", usuarioVO.getId());
-        stmt.setString("NOME", usuarioVO.getNome());
+        stmt.setString("Nome", usuarioVO.getNome());
         stmt.setString("Conta_Usuario", usuarioVO.getLogin());
         stmt.setString("Senha", usuarioVO.getSenha());
-        //stmt.setInt("idPerfilGasto", usuarioVO.getIdPerfilGasto());
+        stmt.setInt("Idade", usuarioVO.getIdade());
+        stmt.setInt(getChave(), usuarioVO.getId());
         return stmt;
     }
 }

@@ -9,26 +9,26 @@ import java.sql.SQLException;
 
 public class PerfilGastoDAO extends PadraoDAO {
     public PerfilGastoDAO(){
-        setTabela("");
-        setChave("");
+        setTabela("tbl_PerfilGasto");
+        setChave("Id_PerfilGasto");
     }
 
     @Override
     protected String nomeProcedureInsert() {
-        return null;
+        return "{CALL sp_inserir_perfilGasto(?)}";
     }
 
     @Override
     protected String nomeProcedureUpdate() {
-        return null;
+        return "{CALL sp_atualizar_perfilGasto(?,?)}";
     }
 
     @Override
     protected CallableStatement criarParametros(Connection connection, PadraoVO o, String comando) throws SQLException {
         PerfilGastoVO perfilGastoVO = (PerfilGastoVO)o;
         CallableStatement stmt = connection.prepareCall(comando);
-        stmt.setInt("", perfilGastoVO.getId());
-        stmt.setString("", perfilGastoVO.getDescricao());
+        stmt.setString("Descricao", perfilGastoVO.getDescricao());
+        stmt.setInt(getChave(), perfilGastoVO.getId());
         return stmt;
     }
 }
