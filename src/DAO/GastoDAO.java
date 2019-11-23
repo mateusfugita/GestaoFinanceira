@@ -10,30 +10,30 @@ import java.sql.SQLException;
 
 public class GastoDAO extends PadraoDAO {
     public GastoDAO(){
-        setTabela("");
-        setChave("");
+        setTabela("tbl_Gasto");
+        setChave("IdGasto");
     }
 
     @Override
     protected String nomeProcedureInsert() {
-        return null;
+        return "{CALL sp_inserir_gasto(?,?,?,?,?}";
     }
 
     @Override
     protected String nomeProcedureUpdate() {
-        return null;
+        return "{CALL sp_atualizar_gasto(?,?,?,?,?,?)}";
     }
 
     @Override
     protected CallableStatement criarParametros(Connection connection, PadraoVO o, String comando) throws SQLException {
         GastoVO gastoVO = (GastoVO)o;
         CallableStatement stmt = connection.prepareCall(comando);
-        stmt.setInt("", gastoVO.getId());
-        stmt.setInt("", gastoVO.getIdEmpresa());
-        stmt.setInt("", gastoVO.getIdUsuario());
-        stmt.setInt("", gastoVO.getIdPagamento());
-        stmt.setDouble("", gastoVO.getValor());
-        stmt.setDate("", (Date)gastoVO.getDataGasto());
+        stmt.setInt("id_empresa", gastoVO.getIdEmpresa());
+        stmt.setInt("id_usuario", gastoVO.getIdUsuario());
+        stmt.setInt("id_pagamento", gastoVO.getIdPagamento());
+        stmt.setDouble("valor", gastoVO.getValor());
+        stmt.setDate("data_gasto", (Date)gastoVO.getDataGasto());
+        stmt.setInt("id", gastoVO.getId());
         return stmt;
     }
 }

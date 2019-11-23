@@ -10,27 +10,27 @@ import java.sql.SQLException;
 
 public class EntradaDAO extends PadraoDAO {
     public EntradaDAO(){
-        setTabela("");
-        setChave("");
+        setTabela("tbl_Entrada");
+        setChave("Id_Entrada");
     }
     @Override
     protected String nomeProcedureInsert() {
-        return null;
+        return "{CALL sp_inserir_entrada(?,?,?)}";
     }
 
     @Override
     protected String nomeProcedureUpdate() {
-        return null;
+        return "{CALL sp_atualizar_entrada(?,?,?,?)}";
     }
 
     @Override
     protected CallableStatement criarParametros(Connection connection, PadraoVO o, String comando) throws SQLException {
         EntradaVO entradaVO = (EntradaVO)o;
         CallableStatement stmt = connection.prepareCall(comando);
-        stmt.setInt("", entradaVO.getId());
-        stmt.setFloat("", entradaVO.getValor());
-        stmt.setDate("", (Date)entradaVO.getDataEntrada());
-        stmt.setInt("", entradaVO.getIdUsuario());
+        stmt.setFloat("valor", entradaVO.getValor());
+        stmt.setDate("data_entrada", (Date)entradaVO.getDataEntrada());
+        stmt.setInt("id_usuario", entradaVO.getIdUsuario());
+        stmt.setInt("id", entradaVO.getId());
         return stmt;
     }
 }
