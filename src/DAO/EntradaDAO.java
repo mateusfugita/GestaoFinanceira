@@ -15,7 +15,7 @@ public class EntradaDAO extends PadraoDAO {
     }
     @Override
     protected String nomeProcedureInsert() {
-        return "{CALL sp_inserir_entrada(?,?,?)}";
+        return "{CALL sp_inserir_entrada(?,?,?,?)}";
     }
 
     @Override

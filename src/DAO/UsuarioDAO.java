@@ -15,7 +15,7 @@ public class UsuarioDAO extends PadraoDAO {
 
     @Override
     protected String nomeProcedureInsert() {
-        return "{CALL sp_inserir_usuario(?,?,?,?)}";
+        return "{CALL sp_inserir_usuario(?,?,?,?,?,?,?)}";
     }
 
     @Override
@@ -27,11 +27,13 @@ public class UsuarioDAO extends PadraoDAO {
     protected CallableStatement criarParametros(Connection connection, PadraoVO o, String comando) throws SQLException {
         CallableStatement stmt = connection.prepareCall(comando);
         UsuarioVO usuarioVO = (UsuarioVO)o;
-        stmt.setString("Nome", usuarioVO.getNome());
-        stmt.setString("Conta_Usuario", usuarioVO.getLogin());
-        stmt.setString("Senha", usuarioVO.getSenha());
-        stmt.setInt("Idade", usuarioVO.getIdade());
-        stmt.setInt(getChave(), usuarioVO.getId());
+        stmt.setString("nome", usuarioVO.getNome());
+        stmt.setString("conta_usuario", usuarioVO.getLogin());
+        stmt.setString("senha", usuarioVO.getSenha());
+        stmt.setInt("idade", usuarioVO.getIdade());
+        stmt.setFloat("saldo", usuarioVO.getSaldo());
+        stmt.setInt("id_perfil", usuarioVO.getIdPerfilGasto());
+        stmt.setInt("id", usuarioVO.getId());
         return stmt;
     }
 }

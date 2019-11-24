@@ -15,7 +15,7 @@ public class PerfilGastoDAO extends PadraoDAO {
 
     @Override
     protected String nomeProcedureInsert() {
-        return "{CALL sp_inserir_perfilGasto(?)}";
+        return "{CALL sp_inserir_perfilGasto(?,?)}";
     }
 
     @Override
@@ -27,8 +27,8 @@ public class PerfilGastoDAO extends PadraoDAO {
     protected CallableStatement criarParametros(Connection connection, PadraoVO o, String comando) throws SQLException {
         PerfilGastoVO perfilGastoVO = (PerfilGastoVO)o;
         CallableStatement stmt = connection.prepareCall(comando);
-        stmt.setString("Descricao", perfilGastoVO.getDescricao());
-        stmt.setInt(getChave(), perfilGastoVO.getId());
+        stmt.setString("descricao", perfilGastoVO.getDescricao());
+        stmt.setInt("id", perfilGastoVO.getId());
         return stmt;
     }
 }

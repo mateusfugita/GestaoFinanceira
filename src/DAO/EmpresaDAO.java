@@ -14,7 +14,7 @@ public class EmpresaDAO extends PadraoDAO {
     }
     @Override
     protected String nomeProcedureInsert() {
-        return "{CALL sp_inserir_empresa(?,?)}";
+        return "{CALL sp_inserir_empresa(?,?,?)}";
     }
 
     @Override
@@ -26,9 +26,9 @@ public class EmpresaDAO extends PadraoDAO {
     protected CallableStatement criarParametros(Connection connection, PadraoVO o, String comando) throws SQLException {
         EmpresaVO empresa = (EmpresaVO)o;
         CallableStatement stmt = connection.prepareCall(comando);
-        stmt.setString("Nome_Empresa", empresa.getNome());
-        stmt.setInt("Id_Categoria", empresa.getIdCategoria());
-        stmt.setInt(getChave(), empresa.getId());
+        stmt.setString("nome", empresa.getNome());
+        stmt.setInt("id_categoria", empresa.getIdCategoria());
+        stmt.setInt("id", empresa.getId());
         return stmt;
     }
 }

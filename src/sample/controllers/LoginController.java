@@ -1,4 +1,6 @@
 package sample.controllers;
+import DAO.PagamentoDAO;
+import VO.PagamentoVO;
 import javafx.fxml.FXML;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
@@ -55,8 +57,17 @@ public class LoginController  {
     }
 
     public void SignIn(javafx.event.ActionEvent actionEvent) {
-        consultar(1);
-        Main.changeScreen("main");
+        //consultar(1);
+        try{
+            PagamentoDAO pag = new PagamentoDAO();
+            PagamentoVO vo = new PagamentoVO();
+            vo.setTipoPagamento("Débito");
+            pag.inserir(vo);
+            Main.changeScreen("main");
+        }
+        catch (SQLException e) {
+            e.printStackTrace();
+        }
     }
 
 

@@ -16,7 +16,7 @@ public class GastoDAO extends PadraoDAO {
 
     @Override
     protected String nomeProcedureInsert() {
-        return "{CALL sp_inserir_gasto(?,?,?,?,?}";
+        return "{CALL sp_inserir_gasto(?,?,?,?,?,?}";
     }
 
     @Override

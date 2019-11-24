@@ -9,7 +9,6 @@ import java.sql.SQLException;
 public abstract class PadraoDAO {
     protected abstract String nomeProcedureInsert();
     protected abstract String nomeProcedureUpdate();
-    //protected abstract String nomeProcedureDelete();
 
     private String Tabela;
     private String Chave;
@@ -18,6 +17,7 @@ public abstract class PadraoDAO {
         try(Connection c = ConexaoBD.getInstance().getConexao()){
             //CallableStatement stmt = c.prepareCall((nomeProcedureInsert()));
             criarParametros(c, vo, nomeProcedureInsert()).executeUpdate();
+            System.out.println("Inserido");
         }
         catch (SQLException e){
             e.printStackTrace();
@@ -36,10 +36,10 @@ public abstract class PadraoDAO {
 
     public void deletar(int id) throws SQLException {
         try(Connection c = ConexaoBD.getInstance().getConexao()) {
-            String query = "{CALL Deletar_BD(?, ?, ?)}";
+            String query = "{CALL sp_deletar(?, ?, ?)}";
             CallableStatement stmt = c.prepareCall(query);
-            stmt.setString("Tabela", getTabela());
-            stmt.setString("Chave", getChave());
+            stmt.setString("nome_tabela", getTabela());
+            stmt.setString("nome_id", getChave());
             stmt.setInt("id", id);
             stmt.executeUpdate();
         }
