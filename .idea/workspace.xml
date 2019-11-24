@@ -3,25 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Menu/DAO/CategoriaEmpresaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Menu/DAO/CategoriaEmpresaDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Menu/DAO/ConexaoBD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Menu/DAO/ConexaoBD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Menu/DAO/EmpresaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Menu/DAO/EmpresaDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Menu/DAO/EntradaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Menu/DAO/EntradaDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Menu/DAO/GastoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Menu/DAO/GastoDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Menu/DAO/PagamentoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Menu/DAO/PagamentoDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Menu/DAO/PerfilGastoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Menu/DAO/PerfilGastoDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Menu/DAO/UsuarioDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Menu/DAO/UsuarioDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Menu/VO/UsuarioVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Menu/VO/UsuarioVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Menu/sample/controllers/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Menu/sample/controllers/LoginController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAO/CategoriaEmpresaDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/CategoriaEmpresaDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAO/EmpresaDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/EmpresaDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAO/EntradaDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/EntradaDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAO/GastoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/GastoDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAO/PadraoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/PadraoDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAO/PagamentoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/PagamentoDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAO/PerfilGastoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/PerfilGastoDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAO/UsuarioDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/UsuarioDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/controllers/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/controllers/LoginController.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,9 +67,6 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectId" id="1SU9TDTVPQwqrD4HC0Rm2gyDMS4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -107,16 +85,10 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/GetText" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Arquivos/jfoenix-8.0.8.jar!/" />
     <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -229,33 +201,8 @@
       <option name="presentableId" value="Default" />
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
-      <workItem from="1573847726806" duration="258000" />
-      <workItem from="1573848867671" duration="7748000" />
-      <workItem from="1574013290787" duration="9135000" />
-      <workItem from="1574038490031" duration="5274000" />
-      <workItem from="1574118161723" duration="7013000" />
-      <workItem from="1574202967364" duration="1835000" />
-      <workItem from="1574474846862" duration="2972000" />
-      <workItem from="1574538424687" duration="4551000" />
-      <workItem from="1574601036860" duration="3916000" />
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />

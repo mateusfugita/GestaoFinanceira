@@ -1,18 +1,12 @@
 package sample.controllers;
-import DAO.PagamentoDAO;
-import VO.PagamentoVO;
 import javafx.fxml.FXML;
-import javafx.scene.Scene;
-import javafx.stage.Stage;
+import javafx.scene.control.TextField;
 import sample.Main;
-
-import javax.swing.*;
-import java.awt.*;
 import java.sql.*;
 
 public class LoginController  {
 
-    @FXML private TextField txtName, txtPassword;
+    @FXML private TextField txtLogin, txtPassword;
 
     public static Connection getConexao(){
         Connection conexao = null;
@@ -58,22 +52,11 @@ public class LoginController  {
 
     public void SignIn(javafx.event.ActionEvent actionEvent) {
         //consultar(1);
-        try{
-            PagamentoDAO pag = new PagamentoDAO();
-            PagamentoVO vo = new PagamentoVO();
-            vo.setTipoPagamento("Débito");
-            pag.inserir(vo);
-            Main.changeScreen("main");
-        }
-        catch (SQLException e) {
-            e.printStackTrace();
-        }
+        Main.changeScreen("main");
     }
-
 
     public void Register()
     {
-
         Main.changeScreen("register");
     }
     public void Close(javafx.event.ActionEvent actionEvent){

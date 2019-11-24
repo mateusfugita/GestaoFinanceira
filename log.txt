@@ -1,0 +1,6 @@
+Processo iniciado 
+Dados obtidos com sucesso 
+Treino preparado 
+Treino executado com sucesso 
+Update realizado com sucesso 
+Processo finalizado 

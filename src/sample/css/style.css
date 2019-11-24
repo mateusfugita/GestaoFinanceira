@@ -30,3 +30,106 @@
 .jfx-hamburger StackPane {
 	-fx-background-color:  #4682B4;
 }
+
+.chart {
+    -fx-padding: 10px;
+    -fx-background-color: transparent;
+    -fx-legend-visible: false;
+}
+.chart-plot-background {
+    -fx-background-color:transparent;
+}
+
+/*Chart*/
+.chart-pie {
+    -fx-border-color: derive(-fx-pie-color, 1%);
+    -fx-border-width: 0px;
+}
+.linear-grad
+{
+    -fx-background-color: linear-gradient(to bottom left, #A868A0, #2D75E8);
+}
+
+.data0.chart-pie{
+    -fx-pie-color: #1FA363;
+}
+
+.data1.chart-pie{
+    -fx-pie-color: #DD5246;
+}
+
+/*TableView*/
+.table-view1{
+    -fx-base: #DD5044;
+    -fx-control-inner-background: #DD5044;
+    -fx-background-color: #DD5044;
+    -fx-table-cell-border-color: transparent;
+    -fx-table-header-border-color: transparent;
+    -fx-padding: 5;
+    -fx-alignment: center;
+}
+
+.table-view1 .column-header-background{
+    -fx-background-color: transparent;
+    -fx-alignment: center;
+}
+
+.table-view1 .column-header, .table-view .filler{
+    -fx-size: 35;
+    -fx-border-width: 0 0 1 0;
+    -fx-background-color: transparent;
+    -fx-border-color: transparent transparent derive(-fx-base, 80%) transparent;
+    -fx-border-insets: 0 10 1 0;
+    -fx-alignment: center;
+}
+
+.table-view1 .column-header .label{
+    -fx-font-size: 10pt;
+    -fx-font-family: "Segoe UI Light";
+    -fx-text-fill: white;
+    -fx-alignment: center-left;
+    -fx-opacity: 1;
+}
+
+.table-view1:focused .table-row-cell:filler:focused:selected{
+    -fx-background-color: -fx-focus-color;
+    -fx-alignment: center;
+}
+
+.table-view2{
+    -fx-base: #198936;
+    -fx-control-inner-background: #198936;
+    -fx-background-color: #198936;
+    -fx-table-cell-border-color: transparent;
+    -fx-table-header-border-color: transparent;
+    -fx-padding: 5;
+    -fx-alignment: center;
+}
+
+.table-view2 .column-header-background{
+    -fx-background-color: transparent;
+    -fx-alignment: center;
+}
+
+.table-view2 .column-header, .table-view .filler{
+    -fx-size: 35;
+    -fx-border-width: 0 0 1 0;
+    -fx-background-color: transparent;
+    -fx-border-color: transparent transparent derive(-fx-base, 80%) transparent;
+    -fx-border-insets: 0 10 1 0;
+    -fx-alignment: center;
+}
+
+.table-view2 .column-header .label{
+    -fx-font-size: 10pt;
+    -fx-font-family: "Segoe UI Light";
+    -fx-text-fill: black;
+    -fx-alignment: center-left;
+    -fx-opacity: 1;
+}
+
+.table-view2:focused .table-row-cell:filler:focused:selected{
+    -fx-background-color: -fx-focus-color;
+    -fx-alignment: center;
+}
+
