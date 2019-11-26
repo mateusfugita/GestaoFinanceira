@@ -1,62 +1,70 @@
 package sample.controllers;
+import DAO.ConexaoBD;
+import DAO.UsuarioDAO;
+import VO.UsuarioVO;
 import javafx.fxml.FXML;
 import javafx.scene.control.TextField;
 import sample.Main;
+import javax.swing.*;
+import java.io.FileOutputStream;
+import java.io.PrintStream;
 import java.sql.*;
 
 public class LoginController  {
 
     @FXML private TextField txtLogin, txtPassword;
 
-    public static Connection getConexao(){
-        Connection conexao = null;
-        try{
-            conexao = DriverManager.getConnection("jdbc:mysql://localhost/financeira?useTimezone=true&serverTimezone=UTC", "root", "1234");
-            System.out.println("Conectado");
-        }
-        catch(SQLException e){
-            System.out.println(e.getMessage());
-        }
-        return conexao;
-    }
-
-    public static String consultar(int id){
-        try(Connection c = getConexao()){
-            String query = "{CALL Consultar_BD(?)}";
+    public static UsuarioVO consultar(String login, String senha){
+        try(Connection c = ConexaoBD.getInstance().getConexao()){
+            String query = "{CALL sp_validar_usuario(?,?)}";
             CallableStatement stmt = c.prepareCall(query);
-            stmt.setInt(1, id);
+            stmt.setString("conta", login);
+            stmt.setString("pass",senha);
             ResultSet rs = stmt.executeQuery();
             rs.next();
-            return rs.getString("Nome_Usuario");
+            if(rs == null)
+                return null;
+            else {
+                UsuarioDAO u = new UsuarioDAO();
+                UsuarioVO.getInstance().getId();
+                return u.criaUsuario(rs);
+            }
         }
         catch(SQLException e){
             System.out.println(e.getStackTrace());
         }
-        return "";
+        return null;
     }
 
-    public static void inserir(String nome, String login, String senha){
-        try(Connection c = getConexao()){
-            String query = "{CALL Inserir_BD(?,?,?)}";
-            CallableStatement stmt = c.prepareCall(query);
-            stmt.setString(1, nome);
-            stmt.setString(2, login);
-            stmt.setString(3, senha);
-            stmt.executeUpdate();
-            System.out.println("Inserido com sucesso!");
+    private void executaPython(){
+        try{
+            int id = UsuarioVO.getInstance().getId();
+            System.out.println("ID: " + id);
+            PrintStream escrever = new PrintStream("Id_Usuario.txt");
+            escrever.println(id);
+
+            String path1 = "Regressao\\Regressao.py";
+            String command1 = " cmd.exe /c start /min python " + path1;
+            Process p1 = Runtime.getRuntime().exec("rundll32 SHELL32.DLL,ShellExec_RunDLL " + command1);
         }
-        catch(SQLException e){
-            e.getStackTrace();
+        catch (Exception e){
+            System.out.println(e.getMessage());
         }
     }
 
     public void SignIn(javafx.event.ActionEvent actionEvent) {
-        //consultar(1);
-        Main.changeScreen("main");
+       if(consultar(txtLogin.getText(), txtPassword.getText()) !=null) {
+            Main.changeScreen("main");
+            executaPython();
+        }
+        else
+            JOptionPane.showMessageDialog(null,"Usuário Inválido");
     }
 
     public void Register()
     {
+        txtLogin.clear();
+        txtPassword.clear();
         Main.changeScreen("register");
     }
     public void Close(javafx.event.ActionEvent actionEvent){

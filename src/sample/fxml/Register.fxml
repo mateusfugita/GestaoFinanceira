@@ -26,7 +26,7 @@
                <graphic>
                   <ImageView fitHeight="31.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_bank_card_back_side_32px.png" />
+                        <Image url="@../images/icons8_bank_card_back_side_32px.png" />
                      </image>
                   </ImageView>
                </graphic>
@@ -54,7 +54,7 @@
                <graphic>
                   <ImageView fitHeight="31.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_password_32px.png" />
+                        <Image url="@../images/icons8_password_32px.png" />
                      </image>
                   </ImageView>
                </graphic>
@@ -65,7 +65,7 @@
                <graphic>
                   <ImageView fitHeight="24.0" fitWidth="26.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_cancel_32px.png" />
+                        <Image url="@../images/icons8_cancel_32px.png" />
                      </image>
                   </ImageView>
                </graphic></Button>
@@ -95,7 +95,7 @@
                <graphic>
                   <ImageView fitHeight="31.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_age_50px.png" />
+                        <Image url="@../images/icons8_age_50px.png" />
                      </image>
                   </ImageView>
                </graphic>

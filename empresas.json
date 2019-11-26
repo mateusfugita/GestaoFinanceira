@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "nome": "Aidarex Pharmaceuticals LLC",
+    "id_categoria": 2
+  },
+  {
+    "id": 2,
+    "nome": "H E B",
+    "id_categoria": 5
+  },
+  {
+    "id": 3,
+    "nome": "ESTEE LAUDER INC",
+    "id_categoria": 4
+  },
+  {
+    "id": 4,
+    "nome": "Nelco Laboratories, Inc.",
+    "id_categoria": 4
+  },
+  {
+    "id": 5,
+    "nome": "Cardinal Health",
+    "id_categoria": 2
+  },
+  {
+    "id": 6,
+    "nome": "Teva Parenteral Medicines, Inc",
+    "id_categoria": 2
+  },
+  {
+    "id": 7,
+    "nome": "Elizabeth Arden, Inc",
+    "id_categoria": 4
+  },
+  {
+    "id": 8,
+    "nome": "A-S Medication Solutions LLC",
+    "id_categoria": 1
+  },
+  {
+    "id": 9,
+    "nome": "AvKARE, Inc.",
+    "id_categoria": 1
+  },
+  {
+    "id": 10,
+    "nome": "Melaleuca, Inc.",
+    "id_categoria": 4
+  },
+  {
+    "id": 11,
+    "nome": "Lupin Pharmaceuticals, Inc.",
+    "id_categoria": 4
+  },
+  {
+    "id": 12,
+    "nome": "NATURE REPUBLIC CO., LTD.",
+    "id_categoria": 3
+  },
+  {
+    "id": 13,
+    "nome": "Qualitest Pharmaceuticals",
+    "id_categoria": 2
+  },
+  {
+    "id": 14,
+    "nome": "Bryant Ranch Prepack",
+    "id_categoria": 2
+  },
+  {
+    "id": 15,
+    "nome": "Hospira, Inc.",
+    "id_categoria": 3
+  },
+  {
+    "id": 16,
+    "nome": "Cantrell Drug Company",
+    "id_categoria": 2
+  },
+  {
+    "id": 17,
+    "nome": "American Health Packaging",
+    "id_categoria": 2
+  },
+  {
+    "id": 18,
+    "nome": "LG Household and Healthcare, Inc.",
+    "id_categoria": 2
+  },
+  {
+    "id": 19,
+    "nome": "Sandoz Inc",
+    "id_categoria": 2
+  },
+  {
+    "id": 20,
+    "nome": "Kroger Company",
+    "id_categoria": 5
+  }
+]

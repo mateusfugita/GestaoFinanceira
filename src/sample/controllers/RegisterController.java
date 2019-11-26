@@ -15,13 +15,36 @@ import java.sql.SQLException;
 
 public class RegisterController {
     @FXML
-    private TextField txtName, txtLogin, txtAge;
+    private TextField txtName, txtLogin,txtAge;
 
     @FXML
     private PasswordField txtPassword;
 
+    public static void inserir(String nome, String login, String senha){
+        try(Connection c = ConexaoBD.getInstance().getConexao()){
+            String query = "{CALL Inserir_BD(?,?,?)}";
+            CallableStatement stmt = c.prepareCall(query);
+            stmt.setString("NOME", nome);
+            stmt.setString("Conta_Usuario", login);
+            stmt.setString("Senha", senha);
+            stmt.executeUpdate();
+            System.out.println("Inserido com sucesso!");
+        }
+        catch(SQLException e){
+            e.getStackTrace();
+        }
+    }
+
+    public void Limpar(){
+        txtName.clear();
+        txtPassword.clear();
+        txtLogin.clear();
+        txtAge.clear();
+    }
+
     public void ReturnLogin(javafx.event.ActionEvent actionEvent) {
         Main.changeScreen("login");
+        Limpar();
     }
     public void Close(javafx.event.ActionEvent actionEvent){
         System.exit(0);
@@ -29,21 +52,19 @@ public class RegisterController {
     @FXML
     public void Save(javafx.event.ActionEvent actionEvent){
         try {
-            //inserir(txtName.getText(), txtLogin.getText(), txtPassword.getText());
-            UsuarioVO usuario = new UsuarioVO();
+            UsuarioVO usuario = UsuarioVO.getInstance();
             usuario.setNome(txtName.getText());
             usuario.setLogin(txtLogin.getText());
             usuario.setSenha(txtPassword.getText());
             usuario.setIdade(Integer.parseInt(txtAge.getText()));
             UsuarioDAO usuarioDAO = new UsuarioDAO();
             usuarioDAO.inserir(usuario);
-            JOptionPane.showMessageDialog(null, "Successful Registration");
+            Limpar();
+            JOptionPane.showMessageDialog(null, "Cadastro realizado com sucesso");
             Main.changeScreen("login");
         }
         catch (Exception e){
             System.out.print(e.getMessage());
         }
     }
-
-
 }

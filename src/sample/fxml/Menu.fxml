@@ -34,7 +34,7 @@
                             <graphic>
                                 <ImageView fitHeight="31.0" fitWidth="35.0" pickOnBounds="true" preserveRatio="true">
                                     <image>
-                                        <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_home_filled_50px_2.png" />
+                                        <Image url="@../images/icons8_home_filled_50px_2.png" />
                                     </image>
                                 </ImageView>
                             </graphic>
@@ -49,7 +49,7 @@
                             <graphic>
                                 <ImageView fitHeight="31.0" fitWidth="35.0" pickOnBounds="true" preserveRatio="true">
                                     <image>
-                                        <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_cashflow_50px.png" />
+                                        <Image url="@../images/icons8_cashflow_50px.png" />
                                     </image>
                                 </ImageView>
                             </graphic>
@@ -64,7 +64,7 @@
                             <graphic>
                                 <ImageView fitHeight="31.0" fitWidth="35.0" pickOnBounds="true" preserveRatio="true">
                                     <image>
-                                        <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_combo_chart_filled_50px_1.png" />
+                                        <Image url="@../images/icons8_combo_chart_filled_50px_1.png" />
                                     </image>
                                 </ImageView>
                             </graphic>
@@ -79,7 +79,7 @@
                             <graphic>
                                 <ImageView fitHeight="31.0" fitWidth="35.0" pickOnBounds="true" preserveRatio="true">
                                     <image>
-                                        <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_money_bag_filled_50px.png" />
+                                        <Image url="@../images/icons8_money_bag_filled_50px.png" />
                                     </image>
                                 </ImageView>
                             </graphic>
@@ -89,7 +89,7 @@
                 </VBox>
                 <ImageView fitHeight="103.0" fitWidth="102.0" layoutX="62.0" layoutY="48.0" pickOnBounds="true" preserveRatio="true">
                     <image>
-                        <Image url="@../images/icons8_user_male_circle_50px.png" />
+                        <Image url="@../images/icons8_currency_exchange_50px.png" />
                     </image>
                 </ImageView>
                 <Button alignment="BASELINE_LEFT" contentDisplay="CENTER" layoutX="167.0" layoutY="14.0" mnemonicParsing="false" prefHeight="28.0" prefWidth="32.0" style="-fx-background-color: #000000;" stylesheets="@../css/style.css" textFill="WHITE">
@@ -104,7 +104,7 @@
                         </ImageView>
                     </graphic>
                 </Button>
-                <Label layoutX="62.0" layoutY="166.0" prefHeight="27.0" prefWidth="121.0" text="Nome Usuário" textFill="WHITE">
+                <Label fx:id="lblName" alignment="CENTER" layoutX="1.0" layoutY="166.0" prefHeight="40.0" prefWidth="225.0" textFill="WHITE">
                     <font>
                         <Font size="18.0" />
                     </font>
@@ -124,18 +124,6 @@
                         </ImageView>
                     </graphic>
                 </Button>
-                <Button layoutX="613.0" layoutY="1.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="44.0" style="-fx-background-color: #000000;" styleClass="button1" stylesheets="@../css/style.css" textFill="WHITE">
-                    <font>
-                        <Font size="18.0" />
-                    </font>
-                    <graphic>
-                        <ImageView fitHeight="21.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
-                            <image>
-                                <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_minimize_window_filled_50px.png" />
-                            </image>
-                        </ImageView>
-                    </graphic>
-                </Button>
                 <Button layoutX="658.0" layoutY="1.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="44.0" style="-fx-background-color: #000000;" styleClass="button1" stylesheets="@../css/style.css" textFill="WHITE">
                     <font>
                         <Font size="18.0" />
@@ -143,7 +131,7 @@
                     <graphic>
                         <ImageView fitHeight="21.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
                             <image>
-                                <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_maximize_window_filled_50px.png" />
+                                <Image url="file:/C:/Users/jp230/IdeaProjects/Menu/src/sample/images/icons8_minimize_window_filled_50px.png" />
                             </image>
                         </ImageView>
                     </graphic>
@@ -164,27 +152,27 @@
                                 </Label>
                             </children>
                         </Pane>
-                  <BarChart fx:id="barChartExpenses1" alternativeColumnFillVisible="true" layoutX="52.0" layoutY="129.0" onMouseClicked="#ShowDetails" prefHeight="436.0" prefWidth="634.0" stylesheets="@../css/style.css">
-                     <xAxis>
-                        <CategoryAxis side="BOTTOM" fx:id="x1">
-                           <tickLabelFont>
-                              <Font size="13.0" />
-                           </tickLabelFont>
-                        </CategoryAxis>
-                     </xAxis>
-                     <yAxis>
-                        <NumberAxis fx:id="y1" label="Value (R$)" side="LEFT">
-                           <tickLabelFont>
-                              <Font size="12.0" />
-                           </tickLabelFont>
-                        </NumberAxis>
-                     </yAxis>
-                     <styleClass>
-                        <String fx:value="data4" />
-                        <String fx:value="data1" />
-                        <String fx:value="data2" />
-                     </styleClass>
-                  </BarChart>
+                        <BarChart fx:id="barChartExpenses1" alternativeColumnFillVisible="true" layoutX="52.0" layoutY="129.0" onMouseClicked="#ShowDetails" prefHeight="436.0" prefWidth="634.0" stylesheets="@../css/style.css">
+                            <xAxis>
+                                <CategoryAxis side="BOTTOM" fx:id="x1">
+                                    <tickLabelFont>
+                                        <Font size="13.0" />
+                                    </tickLabelFont>
+                                </CategoryAxis>
+                            </xAxis>
+                            <yAxis>
+                                <NumberAxis fx:id="y1" label="Value (R$)" side="LEFT">
+                                    <tickLabelFont>
+                                        <Font size="12.0" />
+                                    </tickLabelFont>
+                                </NumberAxis>
+                            </yAxis>
+                            <styleClass>
+                                <String fx:value="data4" />
+                                <String fx:value="data1" />
+                                <String fx:value="data2" />
+                            </styleClass>
+                        </BarChart>
                     </children></Pane>
                 <Pane fx:id="pnlTransactions" prefHeight="617.0" prefWidth="761.0" style="-fx-background-color: #778899;">
                     <children>
@@ -198,8 +186,8 @@
                                 </Label>
                             </children>
                         </Pane>
-                  <TableView fx:id="tblTransaction" layoutX="23.0" layoutY="346.0" prefHeight="222.0" prefWidth="715.0" style="-fx-border-color: #F2F2F2;" styleClass="table-view1" stylesheets="@../css/style.css" />
-                  <TableView fx:id="tblTransaction1" layoutX="23.0" layoutY="99.0" prefHeight="222.0" prefWidth="715.0" style="-fx-border-color: #F2F2F2;" styleClass="table-view2" stylesheets="@../css/style.css" />
+                        <TableView fx:id="tblTransaction" layoutX="23.0" layoutY="346.0" prefHeight="222.0" prefWidth="715.0" style="-fx-border-color: #F2F2F2;" styleClass="table-view1" stylesheets="@../css/style.css" />
+                        <TableView fx:id="tblTransaction1" layoutX="23.0" layoutY="99.0" prefHeight="222.0" prefWidth="715.0" style="-fx-border-color: #F2F2F2;" styleClass="table-view2" stylesheets="@../css/style.css" />
                     </children></Pane>
                 <Pane fx:id="pnlChart" prefHeight="617.0" prefWidth="761.0" style="-fx-background-color: #778899;">
                     <children>
@@ -213,82 +201,99 @@
                                 <Separator layoutY="85.0" prefHeight="3.0" prefWidth="762.0" style="-fx-background-color: #387AA7;" />
                             </children>
                         </Pane>
-                  <PieChart fx:id="pieBalanceSpent" layoutX="14.0" layoutY="99.0" prefHeight="436.0" prefWidth="316.0" stylesheets="@../css/style.css" title="Saldo x Gasto">
-                     <styleClass>
-                        <String fx:value="data0" />
-                        <String fx:value="data1" />
-                     </styleClass>
-                  </PieChart>
-                  <BarChart fx:id="barChartExpenses" alternativeColumnFillVisible="true" layoutX="322.0" layoutY="171.0" prefHeight="418.0" prefWidth="439.0" stylesheets="@../css/style.css">
-                    <xAxis>
-                      <CategoryAxis side="BOTTOM" fx:id="x">
-                           <tickLabelFont>
-                              <Font size="13.0" />
-                           </tickLabelFont>
-                        </CategoryAxis>
-                    </xAxis>
-                    <yAxis>
-                      <NumberAxis fx:id="y" label="Value (R$)" side="LEFT">
-                           <tickLabelFont>
-                              <Font size="12.0" />
-                           </tickLabelFont>
-                        </NumberAxis>
-                    </yAxis>
-                     <styleClass>
-                        <String fx:value="data4" />
-                        <String fx:value="data1" />
-                        <String fx:value="data2" />
-                     </styleClass>
-                  </BarChart>
-                  <Label layoutX="493.0" layoutY="110.0" text="Gastos Por Categoria">
-                     <font>
-                        <Font size="18.0" />
-                     </font>
-                  </Label>
-                  <Separator layoutX="330.0" layoutY="117.0" orientation="VERTICAL" prefHeight="454.0" prefWidth="0.0" />
-                  <Label layoutX="117.0" layoutY="488.0" prefHeight="27.0" prefWidth="26.0" style="-fx-background-color: #1FA363;">
-                     <font>
-                        <Font size="18.0" />
-                     </font>
-                  </Label>
-                  <Label fx:id="lblBalance" layoutX="167.0" layoutY="488.0" text="Saldo">
-                     <font>
-                        <Font size="18.0" />
-                     </font>
-                  </Label>
-                  <Label fx:id="lblSpent" layoutX="167.0" layoutY="533.0" text="Gasto">
-                     <font>
-                        <Font size="18.0" />
-                     </font>
-                  </Label>
-                  <Label layoutX="117.0" layoutY="533.0" prefHeight="27.0" prefWidth="26.0" style="-fx-background-color: #DD5246;">
-                     <font>
-                        <Font size="18.0" />
-                     </font>
-                  </Label>
+                        <PieChart fx:id="pieBalanceSpent" layoutX="14.0" layoutY="99.0" prefHeight="436.0" prefWidth="316.0" stylesheets="@../css/style.css" title="Saldo x Gasto">
+                            <styleClass>
+                                <String fx:value="data0" />
+                                <String fx:value="data1" />
+                            </styleClass>
+                        </PieChart>
+                        <BarChart fx:id="barChartExpenses" alternativeColumnFillVisible="true" layoutX="322.0" layoutY="171.0" prefHeight="418.0" prefWidth="439.0" stylesheets="@../css/style.css">
+                            <xAxis>
+                                <CategoryAxis side="BOTTOM" fx:id="x">
+                                    <tickLabelFont>
+                                        <Font size="13.0" />
+                                    </tickLabelFont>
+                                </CategoryAxis>
+                            </xAxis>
+                            <yAxis>
+                                <NumberAxis fx:id="y" label="Value (R$)" side="LEFT">
+                                    <tickLabelFont>
+                                        <Font size="12.0" />
+                                    </tickLabelFont>
+                                </NumberAxis>
+                            </yAxis>
+                            <styleClass>
+                                <String fx:value="data4" />
+                                <String fx:value="data1" />
+                                <String fx:value="data2" />
+                            </styleClass>
+                        </BarChart>
+                        <Label layoutX="493.0" layoutY="110.0" text="Gastos Por Categoria">
+                            <font>
+                                <Font size="18.0" />
+                            </font>
+                        </Label>
+                        <Separator layoutX="330.0" layoutY="117.0" orientation="VERTICAL" prefHeight="454.0" prefWidth="0.0" />
+                        <Label layoutX="117.0" layoutY="488.0" prefHeight="27.0" prefWidth="26.0" style="-fx-background-color: #1FA363;">
+                            <font>
+                                <Font size="18.0" />
+                            </font>
+                        </Label>
+                        <Label fx:id="lblBalance" layoutX="167.0" layoutY="488.0" text="Saldo">
+                            <font>
+                                <Font size="18.0" />
+                            </font>
+                        </Label>
+                        <Label fx:id="lblSpent" layoutX="167.0" layoutY="533.0" text="Gasto">
+                            <font>
+                                <Font size="18.0" />
+                            </font>
+                        </Label>
+                        <Label layoutX="117.0" layoutY="533.0" prefHeight="27.0" prefWidth="26.0" style="-fx-background-color: #DD5246;">
+                            <font>
+                                <Font size="18.0" />
+                            </font>
+                        </Label>
                     </children>
-            </Pane>
-            <Pane fx:id="pnlHome" prefHeight="617.0" prefWidth="761.0" style="-fx-background-color: #778899;">
-               <children>
-                  <Pane prefHeight="86.0" prefWidth="761.0" style="-fx-background-color: #1C1C1C;" />
-                  <Label layoutX="62.0" layoutY="19.0" prefHeight="53.0" prefWidth="284.0" text="Home Page" textFill="#387aa7">
-                     <font>
-                        <Font size="36.0" />
-                     </font>
-                  </Label>
-                  <Separator layoutY="85.0" prefHeight="3.0" prefWidth="762.0" style="-fx-background-color: #387AA7;" />
-                  <Label layoutX="62.0" layoutY="139.0" prefHeight="40.0" prefWidth="66.0" text="Perfil:">
-                     <font>
-                        <Font size="24.0" />
-                     </font>
-                  </Label>
-                  <Label fx:id="lblPerfil" layoutX="138.0" layoutY="139.0" prefHeight="40.0" prefWidth="218.0">
-                     <font>
-                        <Font size="24.0" />
-                     </font>
-                  </Label>
-               </children>
-            </Pane>
+                </Pane>
+                <Pane fx:id="pnlHome" layoutX="1.0" prefHeight="617.0" prefWidth="761.0" style="-fx-background-color: #778899;">
+                    <children>
+                        <Pane prefHeight="86.0" prefWidth="761.0" style="-fx-background-color: #1C1C1C;" />
+                        <Label layoutX="62.0" layoutY="19.0" prefHeight="53.0" prefWidth="284.0" text="Home Page" textFill="#387aa7">
+                            <font>
+                                <Font size="36.0" />
+                            </font>
+                        </Label>
+                        <Separator layoutY="85.0" prefHeight="3.0" prefWidth="762.0" style="-fx-background-color: #387AA7;" />
+                        <Label layoutX="62.0" layoutY="116.0" prefHeight="40.0" prefWidth="218.0" style="-fx-font-weight: bold;" text="Perfil de Consumo:">
+                            <font>
+                                <Font size="24.0" />
+                            </font>
+                        </Label>
+                        <Label fx:id="lblPerfil" layoutX="298.0" layoutY="116.0" prefHeight="40.0" prefWidth="218.0">
+                            <font>
+                                <Font size="24.0" />
+                            </font>
+                        </Label>
+                        <Pane layoutX="54.0" layoutY="176.0" prefHeight="372.0" prefWidth="678.0" style="-fx-background-color: #1C1C1C; -fx-border-color: #fff; -fx-border-width: 4;">
+                            <children>
+                                <Label layoutX="223.0" layoutY="27.0" prefHeight="40.0" prefWidth="265.0" text="Sugestões de Economia" textFill="#fffdfd">
+                                    <font>
+                                        <Font size="24.0" />
+                                    </font>
+                                </Label>
+                                <Label fx:id="lblTip1" layoutX="17.0" layoutY="75.0" prefHeight="102.0" prefWidth="645.0" textFill="#fffdfd" wrapText="true">
+                                    <font>
+                                        <Font size="18.0" />
+                                    </font></Label>
+                                <Label fx:id="lblTip2" layoutX="13.0" layoutY="193.0" prefHeight="110.0" prefWidth="653.0" textFill="#fffdfd" wrapText="true">
+                                    <font>
+                                        <Font size="18.0" />
+                                    </font></Label>
+                            </children>
+                        </Pane>
+                    </children>
+                </Pane>
             </children></AnchorPane>
     </children>
 </AnchorPane>

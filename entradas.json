@@ -1,0 +1,6002 @@
+[
+  {
+    "Id_Entrada": 1,
+    "Valor": 107,
+    "Data_Entrada": "2019-06-21",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 2,
+    "Valor": 47,
+    "Data_Entrada": "2018-11-26",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 3,
+    "Valor": 278,
+    "Data_Entrada": "2019-08-31",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 4,
+    "Valor": 37,
+    "Data_Entrada": "2018-04-03",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 5,
+    "Valor": 59,
+    "Data_Entrada": "2018-05-16",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 6,
+    "Valor": 262,
+    "Data_Entrada": "2018-12-08",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 7,
+    "Valor": 263,
+    "Data_Entrada": "2018-02-05",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 8,
+    "Valor": 182,
+    "Data_Entrada": "2019-02-05",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 9,
+    "Valor": 3,
+    "Data_Entrada": "2018-07-06",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 10,
+    "Valor": 85,
+    "Data_Entrada": "2019-07-27",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 11,
+    "Valor": 185,
+    "Data_Entrada": "2018-05-04",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 12,
+    "Valor": 300,
+    "Data_Entrada": "2019-01-25",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 13,
+    "Valor": 214,
+    "Data_Entrada": "2019-04-01",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 14,
+    "Valor": 211,
+    "Data_Entrada": "2018-04-10",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 15,
+    "Valor": 70,
+    "Data_Entrada": "2019-05-21",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 16,
+    "Valor": 253,
+    "Data_Entrada": "2018-04-29",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 17,
+    "Valor": 58,
+    "Data_Entrada": "2018-04-13",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 18,
+    "Valor": 81,
+    "Data_Entrada": "2018-02-11",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 19,
+    "Valor": 189,
+    "Data_Entrada": "2018-03-05",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 20,
+    "Valor": 124,
+    "Data_Entrada": "2019-07-15",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 21,
+    "Valor": 295,
+    "Data_Entrada": "2018-03-16",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 22,
+    "Valor": 70,
+    "Data_Entrada": "2019-08-14",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 23,
+    "Valor": 266,
+    "Data_Entrada": "2018-01-16",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 24,
+    "Valor": 71,
+    "Data_Entrada": "2019-04-29",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 25,
+    "Valor": 129,
+    "Data_Entrada": "2019-09-25",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 26,
+    "Valor": 32,
+    "Data_Entrada": "2019-04-15",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 27,
+    "Valor": 266,
+    "Data_Entrada": "2019-10-08",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 28,
+    "Valor": 66,
+    "Data_Entrada": "2018-08-23",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 29,
+    "Valor": 298,
+    "Data_Entrada": "2019-05-30",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 30,
+    "Valor": 126,
+    "Data_Entrada": "2018-08-15",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 31,
+    "Valor": 268,
+    "Data_Entrada": "2018-06-10",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 32,
+    "Valor": 20,
+    "Data_Entrada": "2018-06-20",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 33,
+    "Valor": 161,
+    "Data_Entrada": "2018-08-13",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 34,
+    "Valor": 57,
+    "Data_Entrada": "2018-07-02",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 35,
+    "Valor": 106,
+    "Data_Entrada": "2019-05-13",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 36,
+    "Valor": 68,
+    "Data_Entrada": "2019-07-21",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 37,
+    "Valor": 66,
+    "Data_Entrada": "2018-05-26",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 38,
+    "Valor": 94,
+    "Data_Entrada": "2019-06-20",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 39,
+    "Valor": 11,
+    "Data_Entrada": "2019-08-22",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 40,
+    "Valor": 117,
+    "Data_Entrada": "2017-12-19",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 41,
+    "Valor": 282,
+    "Data_Entrada": "2019-10-16",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 42,
+    "Valor": 222,
+    "Data_Entrada": "2018-04-07",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 43,
+    "Valor": 189,
+    "Data_Entrada": "2019-02-27",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 44,
+    "Valor": 279,
+    "Data_Entrada": "2017-12-10",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 45,
+    "Valor": 66,
+    "Data_Entrada": "2019-08-14",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 46,
+    "Valor": 152,
+    "Data_Entrada": "2019-03-08",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 47,
+    "Valor": 100,
+    "Data_Entrada": "2018-04-24",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 48,
+    "Valor": 189,
+    "Data_Entrada": "2019-05-09",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 49,
+    "Valor": 191,
+    "Data_Entrada": "2019-01-25",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 50,
+    "Valor": 193,
+    "Data_Entrada": "2017-12-23",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 51,
+    "Valor": 234,
+    "Data_Entrada": "2019-05-25",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 52,
+    "Valor": 13,
+    "Data_Entrada": "2018-04-11",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 53,
+    "Valor": 140,
+    "Data_Entrada": "2019-02-21",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 54,
+    "Valor": 287,
+    "Data_Entrada": "2018-02-01",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 55,
+    "Valor": 275,
+    "Data_Entrada": "2018-10-16",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 56,
+    "Valor": 93,
+    "Data_Entrada": "2018-11-10",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 57,
+    "Valor": 142,
+    "Data_Entrada": "2019-05-10",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 58,
+    "Valor": 70,
+    "Data_Entrada": "2019-04-28",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 59,
+    "Valor": 111,
+    "Data_Entrada": "2018-01-04",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 60,
+    "Valor": 72,
+    "Data_Entrada": "2018-10-30",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 61,
+    "Valor": 111,
+    "Data_Entrada": "2019-09-24",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 62,
+    "Valor": 65,
+    "Data_Entrada": "2018-08-20",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 63,
+    "Valor": 196,
+    "Data_Entrada": "2018-12-15",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 64,
+    "Valor": 169,
+    "Data_Entrada": "2018-05-12",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 65,
+    "Valor": 125,
+    "Data_Entrada": "2018-04-26",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 66,
+    "Valor": 296,
+    "Data_Entrada": "2019-10-15",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 67,
+    "Valor": 287,
+    "Data_Entrada": "2017-12-22",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 68,
+    "Valor": 143,
+    "Data_Entrada": "2019-04-28",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 69,
+    "Valor": 227,
+    "Data_Entrada": "2018-05-27",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 70,
+    "Valor": 96,
+    "Data_Entrada": "2018-03-03",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 71,
+    "Valor": 224,
+    "Data_Entrada": "2019-03-03",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 72,
+    "Valor": 247,
+    "Data_Entrada": "2019-01-21",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 73,
+    "Valor": 225,
+    "Data_Entrada": "2019-05-18",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 74,
+    "Valor": 273,
+    "Data_Entrada": "2019-06-24",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 75,
+    "Valor": 65,
+    "Data_Entrada": "2018-10-30",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 76,
+    "Valor": 201,
+    "Data_Entrada": "2018-05-13",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 77,
+    "Valor": 110,
+    "Data_Entrada": "2018-02-26",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 78,
+    "Valor": 37,
+    "Data_Entrada": "2019-09-19",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 79,
+    "Valor": 117,
+    "Data_Entrada": "2019-07-14",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 80,
+    "Valor": 242,
+    "Data_Entrada": "2018-02-08",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 81,
+    "Valor": 19,
+    "Data_Entrada": "2018-08-26",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 82,
+    "Valor": 163,
+    "Data_Entrada": "2018-09-25",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 83,
+    "Valor": 110,
+    "Data_Entrada": "2019-10-01",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 84,
+    "Valor": 136,
+    "Data_Entrada": "2018-06-08",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 85,
+    "Valor": 126,
+    "Data_Entrada": "2019-02-20",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 86,
+    "Valor": 128,
+    "Data_Entrada": "2018-10-17",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 87,
+    "Valor": 54,
+    "Data_Entrada": "2019-06-21",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 88,
+    "Valor": 108,
+    "Data_Entrada": "2019-11-06",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 89,
+    "Valor": 237,
+    "Data_Entrada": "2019-07-26",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 90,
+    "Valor": 295,
+    "Data_Entrada": "2019-10-21",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 91,
+    "Valor": 221,
+    "Data_Entrada": "2017-12-05",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 92,
+    "Valor": 267,
+    "Data_Entrada": "2018-06-28",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 93,
+    "Valor": 30,
+    "Data_Entrada": "2019-06-09",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 94,
+    "Valor": 217,
+    "Data_Entrada": "2018-02-12",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 95,
+    "Valor": 190,
+    "Data_Entrada": "2019-07-01",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 96,
+    "Valor": 17,
+    "Data_Entrada": "2018-05-03",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 97,
+    "Valor": 136,
+    "Data_Entrada": "2018-04-23",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 98,
+    "Valor": 185,
+    "Data_Entrada": "2018-07-03",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 99,
+    "Valor": 152,
+    "Data_Entrada": "2019-09-22",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 100,
+    "Valor": 39,
+    "Data_Entrada": "2018-05-13",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 101,
+    "Valor": 261,
+    "Data_Entrada": "2019-04-27",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 102,
+    "Valor": 140,
+    "Data_Entrada": "2018-12-12",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 103,
+    "Valor": 26,
+    "Data_Entrada": "2018-08-28",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 104,
+    "Valor": 270,
+    "Data_Entrada": "2018-04-22",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 105,
+    "Valor": 49,
+    "Data_Entrada": "2019-03-07",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 106,
+    "Valor": 94,
+    "Data_Entrada": "2019-01-21",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 107,
+    "Valor": 220,
+    "Data_Entrada": "2018-12-21",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 108,
+    "Valor": 99,
+    "Data_Entrada": "2018-06-07",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 109,
+    "Valor": 96,
+    "Data_Entrada": "2018-08-07",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 110,
+    "Valor": 215,
+    "Data_Entrada": "2018-04-03",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 111,
+    "Valor": 43,
+    "Data_Entrada": "2019-06-18",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 112,
+    "Valor": 292,
+    "Data_Entrada": "2019-05-20",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 113,
+    "Valor": 186,
+    "Data_Entrada": "2018-11-11",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 114,
+    "Valor": 133,
+    "Data_Entrada": "2018-03-30",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 115,
+    "Valor": 14,
+    "Data_Entrada": "2018-04-19",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 116,
+    "Valor": 92,
+    "Data_Entrada": "2018-11-02",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 117,
+    "Valor": 161,
+    "Data_Entrada": "2018-02-26",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 118,
+    "Valor": 239,
+    "Data_Entrada": "2018-10-30",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 119,
+    "Valor": 290,
+    "Data_Entrada": "2019-04-19",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 120,
+    "Valor": 19,
+    "Data_Entrada": "2019-04-11",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 121,
+    "Valor": 43,
+    "Data_Entrada": "2018-05-18",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 122,
+    "Valor": 130,
+    "Data_Entrada": "2018-07-08",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 123,
+    "Valor": 293,
+    "Data_Entrada": "2018-03-02",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 124,
+    "Valor": 191,
+    "Data_Entrada": "2018-08-28",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 125,
+    "Valor": 27,
+    "Data_Entrada": "2018-03-17",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 126,
+    "Valor": 224,
+    "Data_Entrada": "2019-07-17",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 127,
+    "Valor": 278,
+    "Data_Entrada": "2019-05-18",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 128,
+    "Valor": 248,
+    "Data_Entrada": "2018-10-08",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 129,
+    "Valor": 41,
+    "Data_Entrada": "2017-12-09",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 130,
+    "Valor": 139,
+    "Data_Entrada": "2018-09-04",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 131,
+    "Valor": 253,
+    "Data_Entrada": "2018-03-07",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 132,
+    "Valor": 130,
+    "Data_Entrada": "2019-07-06",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 133,
+    "Valor": 282,
+    "Data_Entrada": "2018-03-25",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 134,
+    "Valor": 87,
+    "Data_Entrada": "2018-01-05",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 135,
+    "Valor": 158,
+    "Data_Entrada": "2017-12-25",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 136,
+    "Valor": 55,
+    "Data_Entrada": "2018-01-06",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 137,
+    "Valor": 146,
+    "Data_Entrada": "2018-10-02",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 138,
+    "Valor": 187,
+    "Data_Entrada": "2019-10-27",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 139,
+    "Valor": 214,
+    "Data_Entrada": "2018-05-14",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 140,
+    "Valor": 166,
+    "Data_Entrada": "2019-01-04",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 141,
+    "Valor": 180,
+    "Data_Entrada": "2017-12-19",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 142,
+    "Valor": 229,
+    "Data_Entrada": "2018-06-09",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 143,
+    "Valor": 239,
+    "Data_Entrada": "2018-04-08",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 144,
+    "Valor": 79,
+    "Data_Entrada": "2019-10-13",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 145,
+    "Valor": 174,
+    "Data_Entrada": "2017-12-25",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 146,
+    "Valor": 132,
+    "Data_Entrada": "2019-06-20",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 147,
+    "Valor": 176,
+    "Data_Entrada": "2018-11-20",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 148,
+    "Valor": 160,
+    "Data_Entrada": "2018-09-04",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 149,
+    "Valor": 174,
+    "Data_Entrada": "2018-11-20",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 150,
+    "Valor": 59,
+    "Data_Entrada": "2018-05-22",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 151,
+    "Valor": 193,
+    "Data_Entrada": "2019-03-02",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 152,
+    "Valor": 298,
+    "Data_Entrada": "2019-08-03",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 153,
+    "Valor": 282,
+    "Data_Entrada": "2018-03-04",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 154,
+    "Valor": 262,
+    "Data_Entrada": "2018-12-03",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 155,
+    "Valor": 133,
+    "Data_Entrada": "2018-03-17",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 156,
+    "Valor": 223,
+    "Data_Entrada": "2018-08-06",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 157,
+    "Valor": 286,
+    "Data_Entrada": "2019-01-21",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 158,
+    "Valor": 143,
+    "Data_Entrada": "2018-12-03",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 159,
+    "Valor": 263,
+    "Data_Entrada": "2018-01-24",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 160,
+    "Valor": 205,
+    "Data_Entrada": "2019-05-05",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 161,
+    "Valor": 138,
+    "Data_Entrada": "2019-05-03",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 162,
+    "Valor": 80,
+    "Data_Entrada": "2018-06-05",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 163,
+    "Valor": 247,
+    "Data_Entrada": "2017-12-27",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 164,
+    "Valor": 164,
+    "Data_Entrada": "2019-10-27",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 165,
+    "Valor": 59,
+    "Data_Entrada": "2018-12-26",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 166,
+    "Valor": 97,
+    "Data_Entrada": "2018-05-29",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 167,
+    "Valor": 283,
+    "Data_Entrada": "2018-09-25",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 168,
+    "Valor": 8,
+    "Data_Entrada": "2019-02-19",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 169,
+    "Valor": 77,
+    "Data_Entrada": "2018-09-03",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 170,
+    "Valor": 77,
+    "Data_Entrada": "2018-09-25",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 171,
+    "Valor": 116,
+    "Data_Entrada": "2018-09-22",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 172,
+    "Valor": 141,
+    "Data_Entrada": "2018-04-20",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 173,
+    "Valor": 201,
+    "Data_Entrada": "2019-10-21",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 174,
+    "Valor": 82,
+    "Data_Entrada": "2019-02-14",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 175,
+    "Valor": 285,
+    "Data_Entrada": "2018-08-18",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 176,
+    "Valor": 28,
+    "Data_Entrada": "2019-03-24",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 177,
+    "Valor": 265,
+    "Data_Entrada": "2019-01-06",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 178,
+    "Valor": 202,
+    "Data_Entrada": "2017-12-09",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 179,
+    "Valor": 48,
+    "Data_Entrada": "2019-03-01",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 180,
+    "Valor": 232,
+    "Data_Entrada": "2019-09-21",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 181,
+    "Valor": 86,
+    "Data_Entrada": "2018-03-19",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 182,
+    "Valor": 287,
+    "Data_Entrada": "2018-12-25",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 183,
+    "Valor": 180,
+    "Data_Entrada": "2018-10-17",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 184,
+    "Valor": 91,
+    "Data_Entrada": "2017-11-28",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 185,
+    "Valor": 288,
+    "Data_Entrada": "2018-03-31",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 186,
+    "Valor": 266,
+    "Data_Entrada": "2019-09-03",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 187,
+    "Valor": 191,
+    "Data_Entrada": "2017-12-18",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 188,
+    "Valor": 68,
+    "Data_Entrada": "2019-07-03",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 189,
+    "Valor": 115,
+    "Data_Entrada": "2018-05-07",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 190,
+    "Valor": 72,
+    "Data_Entrada": "2019-10-16",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 191,
+    "Valor": 198,
+    "Data_Entrada": "2019-02-03",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 192,
+    "Valor": 184,
+    "Data_Entrada": "2017-12-06",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 193,
+    "Valor": 145,
+    "Data_Entrada": "2018-06-02",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 194,
+    "Valor": 59,
+    "Data_Entrada": "2019-09-12",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 195,
+    "Valor": 67,
+    "Data_Entrada": "2018-09-30",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 196,
+    "Valor": 58,
+    "Data_Entrada": "2019-06-14",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 197,
+    "Valor": 63,
+    "Data_Entrada": "2018-12-13",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 198,
+    "Valor": 189,
+    "Data_Entrada": "2019-02-09",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 199,
+    "Valor": 231,
+    "Data_Entrada": "2018-05-31",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 200,
+    "Valor": 260,
+    "Data_Entrada": "2019-05-23",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 201,
+    "Valor": 166,
+    "Data_Entrada": "2019-01-24",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 202,
+    "Valor": 168,
+    "Data_Entrada": "2018-01-05",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 203,
+    "Valor": 257,
+    "Data_Entrada": "2018-12-02",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 204,
+    "Valor": 253,
+    "Data_Entrada": "2018-05-18",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 205,
+    "Valor": 222,
+    "Data_Entrada": "2018-11-06",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 206,
+    "Valor": 247,
+    "Data_Entrada": "2018-11-15",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 207,
+    "Valor": 188,
+    "Data_Entrada": "2019-09-09",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 208,
+    "Valor": 81,
+    "Data_Entrada": "2019-10-01",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 209,
+    "Valor": 73,
+    "Data_Entrada": "2017-12-10",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 210,
+    "Valor": 230,
+    "Data_Entrada": "2019-08-24",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 211,
+    "Valor": 226,
+    "Data_Entrada": "2019-10-22",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 212,
+    "Valor": 99,
+    "Data_Entrada": "2018-03-06",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 213,
+    "Valor": 40,
+    "Data_Entrada": "2019-03-06",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 214,
+    "Valor": 109,
+    "Data_Entrada": "2018-11-23",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 215,
+    "Valor": 295,
+    "Data_Entrada": "2019-11-11",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 216,
+    "Valor": 256,
+    "Data_Entrada": "2019-05-18",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 217,
+    "Valor": 175,
+    "Data_Entrada": "2019-03-30",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 218,
+    "Valor": 32,
+    "Data_Entrada": "2018-11-28",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 219,
+    "Valor": 299,
+    "Data_Entrada": "2017-11-30",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 220,
+    "Valor": 293,
+    "Data_Entrada": "2019-02-06",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 221,
+    "Valor": 121,
+    "Data_Entrada": "2019-03-19",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 222,
+    "Valor": 138,
+    "Data_Entrada": "2019-10-28",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 223,
+    "Valor": 141,
+    "Data_Entrada": "2019-04-02",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 224,
+    "Valor": 117,
+    "Data_Entrada": "2019-11-08",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 225,
+    "Valor": 254,
+    "Data_Entrada": "2019-08-07",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 226,
+    "Valor": 16,
+    "Data_Entrada": "2018-01-23",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 227,
+    "Valor": 96,
+    "Data_Entrada": "2018-05-07",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 228,
+    "Valor": 216,
+    "Data_Entrada": "2018-08-12",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 229,
+    "Valor": 228,
+    "Data_Entrada": "2018-06-09",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 230,
+    "Valor": 43,
+    "Data_Entrada": "2018-11-14",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 231,
+    "Valor": 47,
+    "Data_Entrada": "2019-02-03",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 232,
+    "Valor": 258,
+    "Data_Entrada": "2018-03-31",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 233,
+    "Valor": 60,
+    "Data_Entrada": "2019-01-03",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 234,
+    "Valor": 91,
+    "Data_Entrada": "2018-12-09",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 235,
+    "Valor": 258,
+    "Data_Entrada": "2018-01-04",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 236,
+    "Valor": 150,
+    "Data_Entrada": "2019-10-19",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 237,
+    "Valor": 130,
+    "Data_Entrada": "2018-06-22",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 238,
+    "Valor": 241,
+    "Data_Entrada": "2019-10-10",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 239,
+    "Valor": 59,
+    "Data_Entrada": "2018-08-01",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 240,
+    "Valor": 91,
+    "Data_Entrada": "2018-02-09",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 241,
+    "Valor": 64,
+    "Data_Entrada": "2018-05-16",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 242,
+    "Valor": 50,
+    "Data_Entrada": "2018-03-20",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 243,
+    "Valor": 68,
+    "Data_Entrada": "2019-06-29",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 244,
+    "Valor": 145,
+    "Data_Entrada": "2019-01-29",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 245,
+    "Valor": 62,
+    "Data_Entrada": "2019-02-21",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 246,
+    "Valor": 28,
+    "Data_Entrada": "2018-12-06",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 247,
+    "Valor": 242,
+    "Data_Entrada": "2019-07-04",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 248,
+    "Valor": 261,
+    "Data_Entrada": "2018-11-06",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 249,
+    "Valor": 274,
+    "Data_Entrada": "2018-06-07",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 250,
+    "Valor": 226,
+    "Data_Entrada": "2019-05-07",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 251,
+    "Valor": 283,
+    "Data_Entrada": "2018-05-06",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 252,
+    "Valor": 136,
+    "Data_Entrada": "2019-04-09",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 253,
+    "Valor": 248,
+    "Data_Entrada": "2018-08-02",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 254,
+    "Valor": 204,
+    "Data_Entrada": "2018-11-16",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 255,
+    "Valor": 87,
+    "Data_Entrada": "2018-08-25",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 256,
+    "Valor": 157,
+    "Data_Entrada": "2018-10-16",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 257,
+    "Valor": 271,
+    "Data_Entrada": "2018-06-07",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 258,
+    "Valor": 68,
+    "Data_Entrada": "2018-10-24",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 259,
+    "Valor": 207,
+    "Data_Entrada": "2017-12-04",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 260,
+    "Valor": 256,
+    "Data_Entrada": "2018-04-11",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 261,
+    "Valor": 142,
+    "Data_Entrada": "2017-12-18",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 262,
+    "Valor": 120,
+    "Data_Entrada": "2018-06-30",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 263,
+    "Valor": 177,
+    "Data_Entrada": "2018-05-28",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 264,
+    "Valor": 99,
+    "Data_Entrada": "2018-06-20",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 265,
+    "Valor": 187,
+    "Data_Entrada": "2018-07-30",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 266,
+    "Valor": 63,
+    "Data_Entrada": "2019-11-04",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 267,
+    "Valor": 286,
+    "Data_Entrada": "2019-09-16",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 268,
+    "Valor": 133,
+    "Data_Entrada": "2019-09-08",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 269,
+    "Valor": 130,
+    "Data_Entrada": "2019-09-27",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 270,
+    "Valor": 27,
+    "Data_Entrada": "2018-10-17",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 271,
+    "Valor": 80,
+    "Data_Entrada": "2019-09-10",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 272,
+    "Valor": 175,
+    "Data_Entrada": "2018-11-27",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 273,
+    "Valor": 74,
+    "Data_Entrada": "2019-01-18",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 274,
+    "Valor": 15,
+    "Data_Entrada": "2019-11-10",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 275,
+    "Valor": 242,
+    "Data_Entrada": "2019-09-19",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 276,
+    "Valor": 69,
+    "Data_Entrada": "2018-11-07",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 277,
+    "Valor": 228,
+    "Data_Entrada": "2018-10-03",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 278,
+    "Valor": 241,
+    "Data_Entrada": "2018-09-29",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 279,
+    "Valor": 127,
+    "Data_Entrada": "2019-01-13",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 280,
+    "Valor": 234,
+    "Data_Entrada": "2019-04-26",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 281,
+    "Valor": 44,
+    "Data_Entrada": "2018-05-12",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 282,
+    "Valor": 169,
+    "Data_Entrada": "2019-06-27",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 283,
+    "Valor": 74,
+    "Data_Entrada": "2018-07-22",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 284,
+    "Valor": 55,
+    "Data_Entrada": "2018-10-20",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 285,
+    "Valor": 73,
+    "Data_Entrada": "2018-07-27",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 286,
+    "Valor": 147,
+    "Data_Entrada": "2018-03-28",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 287,
+    "Valor": 39,
+    "Data_Entrada": "2019-01-08",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 288,
+    "Valor": 57,
+    "Data_Entrada": "2018-07-09",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 289,
+    "Valor": 270,
+    "Data_Entrada": "2018-12-22",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 290,
+    "Valor": 23,
+    "Data_Entrada": "2018-09-04",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 291,
+    "Valor": 48,
+    "Data_Entrada": "2018-05-20",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 292,
+    "Valor": 135,
+    "Data_Entrada": "2019-06-27",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 293,
+    "Valor": 85,
+    "Data_Entrada": "2019-06-24",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 294,
+    "Valor": 36,
+    "Data_Entrada": "2018-07-01",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 295,
+    "Valor": 4,
+    "Data_Entrada": "2019-10-14",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 296,
+    "Valor": 2,
+    "Data_Entrada": "2018-09-01",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 297,
+    "Valor": 62,
+    "Data_Entrada": "2018-01-16",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 298,
+    "Valor": 68,
+    "Data_Entrada": "2019-09-09",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 299,
+    "Valor": 188,
+    "Data_Entrada": "2018-05-03",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 300,
+    "Valor": 229,
+    "Data_Entrada": "2019-08-31",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 301,
+    "Valor": 286,
+    "Data_Entrada": "2017-12-16",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 302,
+    "Valor": 281,
+    "Data_Entrada": "2018-10-22",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 303,
+    "Valor": 251,
+    "Data_Entrada": "2019-08-02",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 304,
+    "Valor": 227,
+    "Data_Entrada": "2019-06-23",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 305,
+    "Valor": 215,
+    "Data_Entrada": "2019-06-13",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 306,
+    "Valor": 121,
+    "Data_Entrada": "2018-05-13",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 307,
+    "Valor": 44,
+    "Data_Entrada": "2018-06-23",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 308,
+    "Valor": 12,
+    "Data_Entrada": "2018-06-23",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 309,
+    "Valor": 136,
+    "Data_Entrada": "2019-03-19",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 310,
+    "Valor": 8,
+    "Data_Entrada": "2019-03-27",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 311,
+    "Valor": 223,
+    "Data_Entrada": "2018-04-15",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 312,
+    "Valor": 240,
+    "Data_Entrada": "2019-05-18",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 313,
+    "Valor": 295,
+    "Data_Entrada": "2019-04-15",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 314,
+    "Valor": 245,
+    "Data_Entrada": "2019-05-04",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 315,
+    "Valor": 274,
+    "Data_Entrada": "2018-01-07",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 316,
+    "Valor": 258,
+    "Data_Entrada": "2018-01-25",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 317,
+    "Valor": 110,
+    "Data_Entrada": "2018-07-29",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 318,
+    "Valor": 184,
+    "Data_Entrada": "2018-11-19",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 319,
+    "Valor": 219,
+    "Data_Entrada": "2018-01-12",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 320,
+    "Valor": 263,
+    "Data_Entrada": "2019-08-21",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 321,
+    "Valor": 239,
+    "Data_Entrada": "2018-11-19",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 322,
+    "Valor": 55,
+    "Data_Entrada": "2018-12-30",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 323,
+    "Valor": 176,
+    "Data_Entrada": "2018-02-03",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 324,
+    "Valor": 60,
+    "Data_Entrada": "2019-11-01",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 325,
+    "Valor": 164,
+    "Data_Entrada": "2019-07-30",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 326,
+    "Valor": 25,
+    "Data_Entrada": "2019-06-10",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 327,
+    "Valor": 151,
+    "Data_Entrada": "2018-09-18",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 328,
+    "Valor": 68,
+    "Data_Entrada": "2019-08-27",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 329,
+    "Valor": 187,
+    "Data_Entrada": "2018-09-07",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 330,
+    "Valor": 97,
+    "Data_Entrada": "2019-03-16",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 331,
+    "Valor": 84,
+    "Data_Entrada": "2019-11-23",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 332,
+    "Valor": 223,
+    "Data_Entrada": "2019-09-22",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 333,
+    "Valor": 180,
+    "Data_Entrada": "2019-08-03",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 334,
+    "Valor": 25,
+    "Data_Entrada": "2019-04-05",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 335,
+    "Valor": 289,
+    "Data_Entrada": "2018-12-25",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 336,
+    "Valor": 296,
+    "Data_Entrada": "2019-03-31",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 337,
+    "Valor": 45,
+    "Data_Entrada": "2018-07-24",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 338,
+    "Valor": 169,
+    "Data_Entrada": "2017-12-14",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 339,
+    "Valor": 137,
+    "Data_Entrada": "2019-01-13",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 340,
+    "Valor": 185,
+    "Data_Entrada": "2018-02-07",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 341,
+    "Valor": 173,
+    "Data_Entrada": "2019-11-06",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 342,
+    "Valor": 121,
+    "Data_Entrada": "2018-05-02",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 343,
+    "Valor": 280,
+    "Data_Entrada": "2018-05-01",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 344,
+    "Valor": 90,
+    "Data_Entrada": "2019-01-21",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 345,
+    "Valor": 158,
+    "Data_Entrada": "2019-10-21",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 346,
+    "Valor": 264,
+    "Data_Entrada": "2018-08-15",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 347,
+    "Valor": 211,
+    "Data_Entrada": "2018-03-06",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 348,
+    "Valor": 30,
+    "Data_Entrada": "2018-05-23",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 349,
+    "Valor": 11,
+    "Data_Entrada": "2018-10-13",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 350,
+    "Valor": 95,
+    "Data_Entrada": "2018-08-31",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 351,
+    "Valor": 265,
+    "Data_Entrada": "2018-03-20",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 352,
+    "Valor": 130,
+    "Data_Entrada": "2019-02-18",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 353,
+    "Valor": 89,
+    "Data_Entrada": "2018-05-03",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 354,
+    "Valor": 298,
+    "Data_Entrada": "2018-01-27",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 355,
+    "Valor": 239,
+    "Data_Entrada": "2018-06-24",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 356,
+    "Valor": 33,
+    "Data_Entrada": "2018-08-04",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 357,
+    "Valor": 213,
+    "Data_Entrada": "2019-11-03",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 358,
+    "Valor": 273,
+    "Data_Entrada": "2019-05-16",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 359,
+    "Valor": 172,
+    "Data_Entrada": "2019-02-22",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 360,
+    "Valor": 6,
+    "Data_Entrada": "2018-06-23",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 361,
+    "Valor": 189,
+    "Data_Entrada": "2019-10-29",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 362,
+    "Valor": 94,
+    "Data_Entrada": "2018-04-22",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 363,
+    "Valor": 281,
+    "Data_Entrada": "2018-11-17",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 364,
+    "Valor": 244,
+    "Data_Entrada": "2018-12-14",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 365,
+    "Valor": 291,
+    "Data_Entrada": "2019-09-08",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 366,
+    "Valor": 153,
+    "Data_Entrada": "2018-09-09",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 367,
+    "Valor": 275,
+    "Data_Entrada": "2018-11-02",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 368,
+    "Valor": 191,
+    "Data_Entrada": "2018-11-05",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 369,
+    "Valor": 287,
+    "Data_Entrada": "2019-07-01",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 370,
+    "Valor": 52,
+    "Data_Entrada": "2019-01-08",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 371,
+    "Valor": 178,
+    "Data_Entrada": "2019-03-16",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 372,
+    "Valor": 103,
+    "Data_Entrada": "2018-03-12",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 373,
+    "Valor": 185,
+    "Data_Entrada": "2018-06-24",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 374,
+    "Valor": 11,
+    "Data_Entrada": "2018-03-20",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 375,
+    "Valor": 184,
+    "Data_Entrada": "2018-09-29",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 376,
+    "Valor": 76,
+    "Data_Entrada": "2018-03-05",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 377,
+    "Valor": 202,
+    "Data_Entrada": "2019-08-13",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 378,
+    "Valor": 103,
+    "Data_Entrada": "2018-08-12",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 379,
+    "Valor": 55,
+    "Data_Entrada": "2018-08-08",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 380,
+    "Valor": 279,
+    "Data_Entrada": "2017-12-03",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 381,
+    "Valor": 132,
+    "Data_Entrada": "2019-10-17",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 382,
+    "Valor": 139,
+    "Data_Entrada": "2018-04-10",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 383,
+    "Valor": 287,
+    "Data_Entrada": "2017-12-28",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 384,
+    "Valor": 34,
+    "Data_Entrada": "2018-06-01",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 385,
+    "Valor": 279,
+    "Data_Entrada": "2019-04-26",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 386,
+    "Valor": 45,
+    "Data_Entrada": "2018-11-13",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 387,
+    "Valor": 200,
+    "Data_Entrada": "2018-01-30",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 388,
+    "Valor": 169,
+    "Data_Entrada": "2018-11-05",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 389,
+    "Valor": 298,
+    "Data_Entrada": "2018-05-04",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 390,
+    "Valor": 20,
+    "Data_Entrada": "2019-07-21",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 391,
+    "Valor": 86,
+    "Data_Entrada": "2019-02-17",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 392,
+    "Valor": 194,
+    "Data_Entrada": "2018-11-20",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 393,
+    "Valor": 249,
+    "Data_Entrada": "2019-09-13",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 394,
+    "Valor": 223,
+    "Data_Entrada": "2018-07-06",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 395,
+    "Valor": 85,
+    "Data_Entrada": "2019-11-15",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 396,
+    "Valor": 263,
+    "Data_Entrada": "2019-04-14",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 397,
+    "Valor": 39,
+    "Data_Entrada": "2019-09-22",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 398,
+    "Valor": 198,
+    "Data_Entrada": "2019-05-15",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 399,
+    "Valor": 222,
+    "Data_Entrada": "2018-01-22",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 400,
+    "Valor": 276,
+    "Data_Entrada": "2018-04-09",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 401,
+    "Valor": 132,
+    "Data_Entrada": "2018-11-27",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 402,
+    "Valor": 171,
+    "Data_Entrada": "2019-07-29",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 403,
+    "Valor": 258,
+    "Data_Entrada": "2018-01-17",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 404,
+    "Valor": 21,
+    "Data_Entrada": "2019-09-01",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 405,
+    "Valor": 299,
+    "Data_Entrada": "2019-10-06",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 406,
+    "Valor": 159,
+    "Data_Entrada": "2018-01-12",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 407,
+    "Valor": 204,
+    "Data_Entrada": "2019-01-30",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 408,
+    "Valor": 191,
+    "Data_Entrada": "2018-04-15",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 409,
+    "Valor": 164,
+    "Data_Entrada": "2018-05-03",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 410,
+    "Valor": 9,
+    "Data_Entrada": "2017-12-06",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 411,
+    "Valor": 224,
+    "Data_Entrada": "2018-03-19",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 412,
+    "Valor": 85,
+    "Data_Entrada": "2018-08-06",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 413,
+    "Valor": 269,
+    "Data_Entrada": "2018-07-07",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 414,
+    "Valor": 59,
+    "Data_Entrada": "2019-01-29",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 415,
+    "Valor": 146,
+    "Data_Entrada": "2018-08-28",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 416,
+    "Valor": 57,
+    "Data_Entrada": "2019-01-14",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 417,
+    "Valor": 149,
+    "Data_Entrada": "2019-01-17",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 418,
+    "Valor": 131,
+    "Data_Entrada": "2019-05-01",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 419,
+    "Valor": 75,
+    "Data_Entrada": "2018-07-19",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 420,
+    "Valor": 249,
+    "Data_Entrada": "2018-06-28",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 421,
+    "Valor": 293,
+    "Data_Entrada": "2017-12-06",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 422,
+    "Valor": 192,
+    "Data_Entrada": "2019-06-10",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 423,
+    "Valor": 208,
+    "Data_Entrada": "2018-05-24",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 424,
+    "Valor": 168,
+    "Data_Entrada": "2019-05-09",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 425,
+    "Valor": 222,
+    "Data_Entrada": "2018-06-02",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 426,
+    "Valor": 18,
+    "Data_Entrada": "2018-05-12",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 427,
+    "Valor": 58,
+    "Data_Entrada": "2019-04-20",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 428,
+    "Valor": 44,
+    "Data_Entrada": "2018-11-27",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 429,
+    "Valor": 289,
+    "Data_Entrada": "2019-02-11",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 430,
+    "Valor": 57,
+    "Data_Entrada": "2018-03-20",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 431,
+    "Valor": 228,
+    "Data_Entrada": "2019-03-24",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 432,
+    "Valor": 236,
+    "Data_Entrada": "2019-01-16",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 433,
+    "Valor": 269,
+    "Data_Entrada": "2019-11-03",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 434,
+    "Valor": 96,
+    "Data_Entrada": "2018-11-23",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 435,
+    "Valor": 155,
+    "Data_Entrada": "2018-02-18",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 436,
+    "Valor": 18,
+    "Data_Entrada": "2019-05-20",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 437,
+    "Valor": 271,
+    "Data_Entrada": "2017-11-28",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 438,
+    "Valor": 93,
+    "Data_Entrada": "2018-11-22",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 439,
+    "Valor": 73,
+    "Data_Entrada": "2018-02-08",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 440,
+    "Valor": 235,
+    "Data_Entrada": "2019-06-03",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 441,
+    "Valor": 187,
+    "Data_Entrada": "2018-06-26",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 442,
+    "Valor": 190,
+    "Data_Entrada": "2018-06-10",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 443,
+    "Valor": 17,
+    "Data_Entrada": "2017-12-29",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 444,
+    "Valor": 50,
+    "Data_Entrada": "2019-11-02",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 445,
+    "Valor": 215,
+    "Data_Entrada": "2019-08-11",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 446,
+    "Valor": 20,
+    "Data_Entrada": "2019-08-06",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 447,
+    "Valor": 159,
+    "Data_Entrada": "2018-09-12",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 448,
+    "Valor": 56,
+    "Data_Entrada": "2018-06-09",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 449,
+    "Valor": 28,
+    "Data_Entrada": "2019-10-24",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 450,
+    "Valor": 4,
+    "Data_Entrada": "2019-07-08",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 451,
+    "Valor": 69,
+    "Data_Entrada": "2018-11-15",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 452,
+    "Valor": 275,
+    "Data_Entrada": "2019-05-08",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 453,
+    "Valor": 236,
+    "Data_Entrada": "2018-01-21",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 454,
+    "Valor": 86,
+    "Data_Entrada": "2018-03-26",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 455,
+    "Valor": 174,
+    "Data_Entrada": "2018-11-08",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 456,
+    "Valor": 169,
+    "Data_Entrada": "2019-04-14",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 457,
+    "Valor": 274,
+    "Data_Entrada": "2018-04-27",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 458,
+    "Valor": 149,
+    "Data_Entrada": "2018-10-25",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 459,
+    "Valor": 263,
+    "Data_Entrada": "2019-01-03",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 460,
+    "Valor": 64,
+    "Data_Entrada": "2019-03-23",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 461,
+    "Valor": 48,
+    "Data_Entrada": "2019-10-05",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 462,
+    "Valor": 15,
+    "Data_Entrada": "2019-04-17",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 463,
+    "Valor": 99,
+    "Data_Entrada": "2019-04-25",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 464,
+    "Valor": 251,
+    "Data_Entrada": "2018-09-22",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 465,
+    "Valor": 47,
+    "Data_Entrada": "2018-03-21",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 466,
+    "Valor": 43,
+    "Data_Entrada": "2018-12-10",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 467,
+    "Valor": 29,
+    "Data_Entrada": "2018-11-22",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 468,
+    "Valor": 164,
+    "Data_Entrada": "2018-03-10",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 469,
+    "Valor": 16,
+    "Data_Entrada": "2018-02-20",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 470,
+    "Valor": 160,
+    "Data_Entrada": "2019-03-18",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 471,
+    "Valor": 83,
+    "Data_Entrada": "2018-06-13",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 472,
+    "Valor": 189,
+    "Data_Entrada": "2018-01-10",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 473,
+    "Valor": 257,
+    "Data_Entrada": "2019-04-09",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 474,
+    "Valor": 62,
+    "Data_Entrada": "2018-06-29",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 475,
+    "Valor": 135,
+    "Data_Entrada": "2018-10-07",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 476,
+    "Valor": 90,
+    "Data_Entrada": "2019-06-26",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 477,
+    "Valor": 88,
+    "Data_Entrada": "2019-10-28",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 478,
+    "Valor": 79,
+    "Data_Entrada": "2017-12-17",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 479,
+    "Valor": 4,
+    "Data_Entrada": "2018-07-19",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 480,
+    "Valor": 242,
+    "Data_Entrada": "2018-02-10",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 481,
+    "Valor": 188,
+    "Data_Entrada": "2019-03-17",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 482,
+    "Valor": 276,
+    "Data_Entrada": "2018-02-14",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 483,
+    "Valor": 72,
+    "Data_Entrada": "2018-11-01",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 484,
+    "Valor": 262,
+    "Data_Entrada": "2018-06-09",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 485,
+    "Valor": 91,
+    "Data_Entrada": "2018-03-12",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 486,
+    "Valor": 77,
+    "Data_Entrada": "2018-09-09",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 487,
+    "Valor": 223,
+    "Data_Entrada": "2019-08-10",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 488,
+    "Valor": 198,
+    "Data_Entrada": "2019-11-23",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 489,
+    "Valor": 289,
+    "Data_Entrada": "2018-03-15",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 490,
+    "Valor": 167,
+    "Data_Entrada": "2018-02-10",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 491,
+    "Valor": 11,
+    "Data_Entrada": "2019-06-16",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 492,
+    "Valor": 53,
+    "Data_Entrada": "2018-10-16",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 493,
+    "Valor": 199,
+    "Data_Entrada": "2019-08-30",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 494,
+    "Valor": 243,
+    "Data_Entrada": "2019-05-15",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 495,
+    "Valor": 195,
+    "Data_Entrada": "2019-02-27",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 496,
+    "Valor": 168,
+    "Data_Entrada": "2019-10-11",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 497,
+    "Valor": 160,
+    "Data_Entrada": "2018-10-08",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 498,
+    "Valor": 42,
+    "Data_Entrada": "2019-02-11",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 499,
+    "Valor": 277,
+    "Data_Entrada": "2018-01-01",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 500,
+    "Valor": 197,
+    "Data_Entrada": "2018-11-10",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 501,
+    "Valor": 139,
+    "Data_Entrada": "2018-12-13",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 502,
+    "Valor": 159,
+    "Data_Entrada": "2019-05-06",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 503,
+    "Valor": 237,
+    "Data_Entrada": "2019-04-23",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 504,
+    "Valor": 258,
+    "Data_Entrada": "2019-09-10",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 505,
+    "Valor": 21,
+    "Data_Entrada": "2019-08-26",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 506,
+    "Valor": 70,
+    "Data_Entrada": "2019-05-23",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 507,
+    "Valor": 235,
+    "Data_Entrada": "2018-07-02",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 508,
+    "Valor": 281,
+    "Data_Entrada": "2018-06-04",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 509,
+    "Valor": 100,
+    "Data_Entrada": "2018-02-13",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 510,
+    "Valor": 289,
+    "Data_Entrada": "2019-03-20",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 511,
+    "Valor": 170,
+    "Data_Entrada": "2019-10-11",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 512,
+    "Valor": 61,
+    "Data_Entrada": "2019-01-04",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 513,
+    "Valor": 90,
+    "Data_Entrada": "2018-06-26",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 514,
+    "Valor": 247,
+    "Data_Entrada": "2018-10-02",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 515,
+    "Valor": 209,
+    "Data_Entrada": "2017-12-15",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 516,
+    "Valor": 110,
+    "Data_Entrada": "2018-07-07",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 517,
+    "Valor": 1,
+    "Data_Entrada": "2018-04-13",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 518,
+    "Valor": 161,
+    "Data_Entrada": "2019-07-07",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 519,
+    "Valor": 32,
+    "Data_Entrada": "2018-08-20",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 520,
+    "Valor": 58,
+    "Data_Entrada": "2018-08-01",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 521,
+    "Valor": 73,
+    "Data_Entrada": "2018-08-26",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 522,
+    "Valor": 231,
+    "Data_Entrada": "2018-06-03",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 523,
+    "Valor": 155,
+    "Data_Entrada": "2018-02-24",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 524,
+    "Valor": 160,
+    "Data_Entrada": "2019-04-24",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 525,
+    "Valor": 122,
+    "Data_Entrada": "2018-06-07",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 526,
+    "Valor": 166,
+    "Data_Entrada": "2018-12-02",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 527,
+    "Valor": 58,
+    "Data_Entrada": "2018-08-22",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 528,
+    "Valor": 193,
+    "Data_Entrada": "2019-10-22",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 529,
+    "Valor": 61,
+    "Data_Entrada": "2017-11-26",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 530,
+    "Valor": 296,
+    "Data_Entrada": "2018-01-09",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 531,
+    "Valor": 223,
+    "Data_Entrada": "2018-02-15",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 532,
+    "Valor": 43,
+    "Data_Entrada": "2018-06-27",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 533,
+    "Valor": 272,
+    "Data_Entrada": "2019-03-31",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 534,
+    "Valor": 142,
+    "Data_Entrada": "2019-01-21",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 535,
+    "Valor": 300,
+    "Data_Entrada": "2019-10-07",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 536,
+    "Valor": 278,
+    "Data_Entrada": "2019-11-06",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 537,
+    "Valor": 211,
+    "Data_Entrada": "2019-01-05",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 538,
+    "Valor": 215,
+    "Data_Entrada": "2017-12-05",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 539,
+    "Valor": 66,
+    "Data_Entrada": "2018-02-02",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 540,
+    "Valor": 281,
+    "Data_Entrada": "2018-09-25",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 541,
+    "Valor": 80,
+    "Data_Entrada": "2019-01-30",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 542,
+    "Valor": 174,
+    "Data_Entrada": "2018-09-28",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 543,
+    "Valor": 275,
+    "Data_Entrada": "2018-05-08",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 544,
+    "Valor": 201,
+    "Data_Entrada": "2018-07-28",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 545,
+    "Valor": 240,
+    "Data_Entrada": "2018-07-25",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 546,
+    "Valor": 66,
+    "Data_Entrada": "2018-02-27",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 547,
+    "Valor": 104,
+    "Data_Entrada": "2019-06-24",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 548,
+    "Valor": 32,
+    "Data_Entrada": "2018-03-10",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 549,
+    "Valor": 100,
+    "Data_Entrada": "2019-09-15",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 550,
+    "Valor": 22,
+    "Data_Entrada": "2017-12-01",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 551,
+    "Valor": 71,
+    "Data_Entrada": "2018-08-15",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 552,
+    "Valor": 121,
+    "Data_Entrada": "2019-04-25",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 553,
+    "Valor": 173,
+    "Data_Entrada": "2019-02-15",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 554,
+    "Valor": 81,
+    "Data_Entrada": "2019-04-13",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 555,
+    "Valor": 102,
+    "Data_Entrada": "2018-03-23",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 556,
+    "Valor": 174,
+    "Data_Entrada": "2019-03-16",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 557,
+    "Valor": 150,
+    "Data_Entrada": "2017-12-29",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 558,
+    "Valor": 153,
+    "Data_Entrada": "2019-06-02",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 559,
+    "Valor": 52,
+    "Data_Entrada": "2018-07-24",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 560,
+    "Valor": 273,
+    "Data_Entrada": "2018-03-23",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 561,
+    "Valor": 65,
+    "Data_Entrada": "2018-07-21",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 562,
+    "Valor": 178,
+    "Data_Entrada": "2018-07-27",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 563,
+    "Valor": 42,
+    "Data_Entrada": "2018-01-17",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 564,
+    "Valor": 177,
+    "Data_Entrada": "2019-10-29",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 565,
+    "Valor": 36,
+    "Data_Entrada": "2018-05-09",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 566,
+    "Valor": 164,
+    "Data_Entrada": "2019-08-22",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 567,
+    "Valor": 225,
+    "Data_Entrada": "2018-02-05",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 568,
+    "Valor": 74,
+    "Data_Entrada": "2019-05-26",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 569,
+    "Valor": 112,
+    "Data_Entrada": "2018-11-13",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 570,
+    "Valor": 291,
+    "Data_Entrada": "2018-09-16",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 571,
+    "Valor": 275,
+    "Data_Entrada": "2019-06-27",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 572,
+    "Valor": 266,
+    "Data_Entrada": "2019-01-25",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 573,
+    "Valor": 251,
+    "Data_Entrada": "2019-03-04",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 574,
+    "Valor": 134,
+    "Data_Entrada": "2018-06-02",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 575,
+    "Valor": 67,
+    "Data_Entrada": "2018-09-21",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 576,
+    "Valor": 204,
+    "Data_Entrada": "2018-05-21",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 577,
+    "Valor": 161,
+    "Data_Entrada": "2018-09-06",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 578,
+    "Valor": 87,
+    "Data_Entrada": "2018-09-26",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 579,
+    "Valor": 239,
+    "Data_Entrada": "2018-11-22",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 580,
+    "Valor": 61,
+    "Data_Entrada": "2017-11-30",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 581,
+    "Valor": 19,
+    "Data_Entrada": "2018-12-03",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 582,
+    "Valor": 7,
+    "Data_Entrada": "2017-12-05",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 583,
+    "Valor": 96,
+    "Data_Entrada": "2019-09-28",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 584,
+    "Valor": 170,
+    "Data_Entrada": "2018-08-29",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 585,
+    "Valor": 161,
+    "Data_Entrada": "2019-08-22",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 586,
+    "Valor": 171,
+    "Data_Entrada": "2019-07-29",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 587,
+    "Valor": 16,
+    "Data_Entrada": "2019-09-10",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 588,
+    "Valor": 73,
+    "Data_Entrada": "2018-07-05",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 589,
+    "Valor": 300,
+    "Data_Entrada": "2018-07-08",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 590,
+    "Valor": 296,
+    "Data_Entrada": "2018-07-08",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 591,
+    "Valor": 181,
+    "Data_Entrada": "2019-01-30",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 592,
+    "Valor": 148,
+    "Data_Entrada": "2019-03-31",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 593,
+    "Valor": 264,
+    "Data_Entrada": "2018-04-26",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 594,
+    "Valor": 137,
+    "Data_Entrada": "2018-09-15",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 595,
+    "Valor": 173,
+    "Data_Entrada": "2018-03-19",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 596,
+    "Valor": 272,
+    "Data_Entrada": "2018-02-03",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 597,
+    "Valor": 28,
+    "Data_Entrada": "2019-06-09",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 598,
+    "Valor": 277,
+    "Data_Entrada": "2019-10-02",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 599,
+    "Valor": 289,
+    "Data_Entrada": "2018-10-22",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 600,
+    "Valor": 199,
+    "Data_Entrada": "2019-07-19",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 601,
+    "Valor": 61,
+    "Data_Entrada": "2018-01-15",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 602,
+    "Valor": 116,
+    "Data_Entrada": "2019-05-07",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 603,
+    "Valor": 142,
+    "Data_Entrada": "2018-01-26",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 604,
+    "Valor": 164,
+    "Data_Entrada": "2019-03-03",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 605,
+    "Valor": 276,
+    "Data_Entrada": "2017-12-20",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 606,
+    "Valor": 145,
+    "Data_Entrada": "2019-09-23",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 607,
+    "Valor": 129,
+    "Data_Entrada": "2018-08-28",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 608,
+    "Valor": 147,
+    "Data_Entrada": "2018-09-25",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 609,
+    "Valor": 59,
+    "Data_Entrada": "2018-07-11",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 610,
+    "Valor": 79,
+    "Data_Entrada": "2019-08-09",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 611,
+    "Valor": 39,
+    "Data_Entrada": "2017-12-15",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 612,
+    "Valor": 154,
+    "Data_Entrada": "2018-01-25",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 613,
+    "Valor": 204,
+    "Data_Entrada": "2018-06-18",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 614,
+    "Valor": 4,
+    "Data_Entrada": "2018-06-14",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 615,
+    "Valor": 104,
+    "Data_Entrada": "2018-06-16",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 616,
+    "Valor": 145,
+    "Data_Entrada": "2019-11-02",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 617,
+    "Valor": 257,
+    "Data_Entrada": "2019-06-14",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 618,
+    "Valor": 187,
+    "Data_Entrada": "2019-11-20",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 619,
+    "Valor": 221,
+    "Data_Entrada": "2019-02-15",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 620,
+    "Valor": 132,
+    "Data_Entrada": "2018-10-17",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 621,
+    "Valor": 137,
+    "Data_Entrada": "2019-10-06",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 622,
+    "Valor": 257,
+    "Data_Entrada": "2017-12-16",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 623,
+    "Valor": 108,
+    "Data_Entrada": "2019-08-23",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 624,
+    "Valor": 154,
+    "Data_Entrada": "2019-05-30",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 625,
+    "Valor": 229,
+    "Data_Entrada": "2019-11-17",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 626,
+    "Valor": 61,
+    "Data_Entrada": "2018-03-29",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 627,
+    "Valor": 110,
+    "Data_Entrada": "2018-03-05",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 628,
+    "Valor": 14,
+    "Data_Entrada": "2018-05-05",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 629,
+    "Valor": 226,
+    "Data_Entrada": "2019-08-09",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 630,
+    "Valor": 84,
+    "Data_Entrada": "2019-02-06",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 631,
+    "Valor": 265,
+    "Data_Entrada": "2018-06-11",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 632,
+    "Valor": 26,
+    "Data_Entrada": "2019-01-09",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 633,
+    "Valor": 105,
+    "Data_Entrada": "2018-02-10",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 634,
+    "Valor": 89,
+    "Data_Entrada": "2017-12-03",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 635,
+    "Valor": 45,
+    "Data_Entrada": "2018-11-29",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 636,
+    "Valor": 103,
+    "Data_Entrada": "2019-04-22",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 637,
+    "Valor": 228,
+    "Data_Entrada": "2019-06-02",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 638,
+    "Valor": 219,
+    "Data_Entrada": "2018-09-03",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 639,
+    "Valor": 261,
+    "Data_Entrada": "2018-10-29",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 640,
+    "Valor": 210,
+    "Data_Entrada": "2018-09-17",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 641,
+    "Valor": 42,
+    "Data_Entrada": "2019-03-13",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 642,
+    "Valor": 281,
+    "Data_Entrada": "2019-03-12",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 643,
+    "Valor": 209,
+    "Data_Entrada": "2018-10-19",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 644,
+    "Valor": 250,
+    "Data_Entrada": "2019-03-14",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 645,
+    "Valor": 36,
+    "Data_Entrada": "2019-10-08",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 646,
+    "Valor": 134,
+    "Data_Entrada": "2019-01-27",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 647,
+    "Valor": 28,
+    "Data_Entrada": "2018-08-20",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 648,
+    "Valor": 260,
+    "Data_Entrada": "2019-01-25",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 649,
+    "Valor": 274,
+    "Data_Entrada": "2019-10-03",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 650,
+    "Valor": 14,
+    "Data_Entrada": "2019-02-19",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 651,
+    "Valor": 124,
+    "Data_Entrada": "2019-05-13",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 652,
+    "Valor": 220,
+    "Data_Entrada": "2019-06-10",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 653,
+    "Valor": 95,
+    "Data_Entrada": "2018-11-13",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 654,
+    "Valor": 21,
+    "Data_Entrada": "2018-02-07",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 655,
+    "Valor": 115,
+    "Data_Entrada": "2018-10-22",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 656,
+    "Valor": 253,
+    "Data_Entrada": "2019-06-07",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 657,
+    "Valor": 184,
+    "Data_Entrada": "2018-06-13",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 658,
+    "Valor": 149,
+    "Data_Entrada": "2018-08-07",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 659,
+    "Valor": 233,
+    "Data_Entrada": "2018-06-12",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 660,
+    "Valor": 94,
+    "Data_Entrada": "2019-09-04",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 661,
+    "Valor": 169,
+    "Data_Entrada": "2019-06-29",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 662,
+    "Valor": 212,
+    "Data_Entrada": "2019-01-15",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 663,
+    "Valor": 174,
+    "Data_Entrada": "2019-09-19",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 664,
+    "Valor": 150,
+    "Data_Entrada": "2018-07-24",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 665,
+    "Valor": 240,
+    "Data_Entrada": "2019-04-26",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 666,
+    "Valor": 87,
+    "Data_Entrada": "2019-05-04",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 667,
+    "Valor": 209,
+    "Data_Entrada": "2018-12-19",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 668,
+    "Valor": 160,
+    "Data_Entrada": "2018-11-06",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 669,
+    "Valor": 197,
+    "Data_Entrada": "2018-07-30",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 670,
+    "Valor": 155,
+    "Data_Entrada": "2018-08-05",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 671,
+    "Valor": 130,
+    "Data_Entrada": "2019-10-11",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 672,
+    "Valor": 294,
+    "Data_Entrada": "2019-01-18",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 673,
+    "Valor": 87,
+    "Data_Entrada": "2018-03-05",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 674,
+    "Valor": 100,
+    "Data_Entrada": "2018-11-08",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 675,
+    "Valor": 175,
+    "Data_Entrada": "2018-08-29",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 676,
+    "Valor": 24,
+    "Data_Entrada": "2019-05-30",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 677,
+    "Valor": 205,
+    "Data_Entrada": "2019-05-09",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 678,
+    "Valor": 16,
+    "Data_Entrada": "2018-04-03",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 679,
+    "Valor": 60,
+    "Data_Entrada": "2018-10-15",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 680,
+    "Valor": 253,
+    "Data_Entrada": "2017-12-20",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 681,
+    "Valor": 31,
+    "Data_Entrada": "2019-09-12",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 682,
+    "Valor": 160,
+    "Data_Entrada": "2018-01-19",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 683,
+    "Valor": 87,
+    "Data_Entrada": "2019-09-06",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 684,
+    "Valor": 56,
+    "Data_Entrada": "2018-10-16",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 685,
+    "Valor": 273,
+    "Data_Entrada": "2019-03-19",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 686,
+    "Valor": 204,
+    "Data_Entrada": "2019-10-30",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 687,
+    "Valor": 141,
+    "Data_Entrada": "2018-02-27",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 688,
+    "Valor": 106,
+    "Data_Entrada": "2017-12-01",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 689,
+    "Valor": 90,
+    "Data_Entrada": "2019-05-02",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 690,
+    "Valor": 185,
+    "Data_Entrada": "2019-10-04",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 691,
+    "Valor": 122,
+    "Data_Entrada": "2019-04-27",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 692,
+    "Valor": 229,
+    "Data_Entrada": "2018-12-13",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 693,
+    "Valor": 260,
+    "Data_Entrada": "2019-02-27",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 694,
+    "Valor": 39,
+    "Data_Entrada": "2018-09-25",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 695,
+    "Valor": 228,
+    "Data_Entrada": "2019-05-26",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 696,
+    "Valor": 95,
+    "Data_Entrada": "2019-06-09",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 697,
+    "Valor": 26,
+    "Data_Entrada": "2019-06-28",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 698,
+    "Valor": 188,
+    "Data_Entrada": "2018-07-02",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 699,
+    "Valor": 85,
+    "Data_Entrada": "2018-01-21",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 700,
+    "Valor": 66,
+    "Data_Entrada": "2019-08-01",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 701,
+    "Valor": 132,
+    "Data_Entrada": "2018-11-21",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 702,
+    "Valor": 135,
+    "Data_Entrada": "2018-07-21",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 703,
+    "Valor": 119,
+    "Data_Entrada": "2018-07-12",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 704,
+    "Valor": 52,
+    "Data_Entrada": "2018-12-30",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 705,
+    "Valor": 133,
+    "Data_Entrada": "2018-08-02",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 706,
+    "Valor": 162,
+    "Data_Entrada": "2018-04-07",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 707,
+    "Valor": 266,
+    "Data_Entrada": "2018-09-29",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 708,
+    "Valor": 46,
+    "Data_Entrada": "2018-02-04",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 709,
+    "Valor": 263,
+    "Data_Entrada": "2019-05-04",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 710,
+    "Valor": 94,
+    "Data_Entrada": "2018-03-15",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 711,
+    "Valor": 51,
+    "Data_Entrada": "2018-04-20",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 712,
+    "Valor": 212,
+    "Data_Entrada": "2017-12-13",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 713,
+    "Valor": 103,
+    "Data_Entrada": "2018-06-28",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 714,
+    "Valor": 84,
+    "Data_Entrada": "2019-03-25",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 715,
+    "Valor": 53,
+    "Data_Entrada": "2019-05-07",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 716,
+    "Valor": 120,
+    "Data_Entrada": "2018-12-18",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 717,
+    "Valor": 18,
+    "Data_Entrada": "2019-02-16",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 718,
+    "Valor": 215,
+    "Data_Entrada": "2018-10-25",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 719,
+    "Valor": 194,
+    "Data_Entrada": "2018-04-03",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 720,
+    "Valor": 86,
+    "Data_Entrada": "2019-03-06",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 721,
+    "Valor": 2,
+    "Data_Entrada": "2017-12-18",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 722,
+    "Valor": 9,
+    "Data_Entrada": "2019-06-24",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 723,
+    "Valor": 292,
+    "Data_Entrada": "2018-01-26",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 724,
+    "Valor": 115,
+    "Data_Entrada": "2019-09-10",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 725,
+    "Valor": 144,
+    "Data_Entrada": "2019-10-21",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 726,
+    "Valor": 230,
+    "Data_Entrada": "2018-07-17",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 727,
+    "Valor": 266,
+    "Data_Entrada": "2018-02-24",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 728,
+    "Valor": 96,
+    "Data_Entrada": "2018-11-11",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 729,
+    "Valor": 159,
+    "Data_Entrada": "2019-08-20",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 730,
+    "Valor": 165,
+    "Data_Entrada": "2018-04-27",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 731,
+    "Valor": 59,
+    "Data_Entrada": "2019-03-11",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 732,
+    "Valor": 55,
+    "Data_Entrada": "2018-05-01",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 733,
+    "Valor": 96,
+    "Data_Entrada": "2019-10-11",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 734,
+    "Valor": 33,
+    "Data_Entrada": "2019-05-04",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 735,
+    "Valor": 218,
+    "Data_Entrada": "2019-08-26",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 736,
+    "Valor": 283,
+    "Data_Entrada": "2019-02-08",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 737,
+    "Valor": 82,
+    "Data_Entrada": "2018-02-09",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 738,
+    "Valor": 263,
+    "Data_Entrada": "2019-01-08",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 739,
+    "Valor": 80,
+    "Data_Entrada": "2018-12-13",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 740,
+    "Valor": 266,
+    "Data_Entrada": "2019-10-14",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 741,
+    "Valor": 159,
+    "Data_Entrada": "2018-02-16",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 742,
+    "Valor": 212,
+    "Data_Entrada": "2019-04-16",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 743,
+    "Valor": 270,
+    "Data_Entrada": "2018-08-25",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 744,
+    "Valor": 275,
+    "Data_Entrada": "2019-10-17",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 745,
+    "Valor": 281,
+    "Data_Entrada": "2019-11-07",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 746,
+    "Valor": 80,
+    "Data_Entrada": "2018-10-01",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 747,
+    "Valor": 175,
+    "Data_Entrada": "2018-06-12",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 748,
+    "Valor": 198,
+    "Data_Entrada": "2018-03-29",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 749,
+    "Valor": 162,
+    "Data_Entrada": "2017-12-24",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 750,
+    "Valor": 137,
+    "Data_Entrada": "2018-12-03",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 751,
+    "Valor": 36,
+    "Data_Entrada": "2018-04-09",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 752,
+    "Valor": 105,
+    "Data_Entrada": "2018-01-30",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 753,
+    "Valor": 171,
+    "Data_Entrada": "2018-04-23",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 754,
+    "Valor": 293,
+    "Data_Entrada": "2018-07-27",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 755,
+    "Valor": 292,
+    "Data_Entrada": "2018-01-17",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 756,
+    "Valor": 153,
+    "Data_Entrada": "2018-04-21",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 757,
+    "Valor": 282,
+    "Data_Entrada": "2019-02-10",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 758,
+    "Valor": 79,
+    "Data_Entrada": "2018-03-12",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 759,
+    "Valor": 226,
+    "Data_Entrada": "2019-04-28",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 760,
+    "Valor": 66,
+    "Data_Entrada": "2018-02-19",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 761,
+    "Valor": 16,
+    "Data_Entrada": "2019-07-31",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 762,
+    "Valor": 155,
+    "Data_Entrada": "2019-04-16",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 763,
+    "Valor": 1,
+    "Data_Entrada": "2019-11-06",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 764,
+    "Valor": 2,
+    "Data_Entrada": "2018-12-09",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 765,
+    "Valor": 125,
+    "Data_Entrada": "2018-04-28",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 766,
+    "Valor": 197,
+    "Data_Entrada": "2019-03-25",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 767,
+    "Valor": 154,
+    "Data_Entrada": "2018-05-30",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 768,
+    "Valor": 291,
+    "Data_Entrada": "2019-10-14",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 769,
+    "Valor": 278,
+    "Data_Entrada": "2018-11-14",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 770,
+    "Valor": 153,
+    "Data_Entrada": "2018-07-02",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 771,
+    "Valor": 233,
+    "Data_Entrada": "2018-11-28",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 772,
+    "Valor": 61,
+    "Data_Entrada": "2018-10-24",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 773,
+    "Valor": 71,
+    "Data_Entrada": "2018-06-10",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 774,
+    "Valor": 241,
+    "Data_Entrada": "2018-09-27",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 775,
+    "Valor": 125,
+    "Data_Entrada": "2018-07-07",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 776,
+    "Valor": 293,
+    "Data_Entrada": "2018-02-18",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 777,
+    "Valor": 288,
+    "Data_Entrada": "2019-10-20",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 778,
+    "Valor": 106,
+    "Data_Entrada": "2018-10-28",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 779,
+    "Valor": 24,
+    "Data_Entrada": "2019-03-12",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 780,
+    "Valor": 300,
+    "Data_Entrada": "2017-12-28",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 781,
+    "Valor": 138,
+    "Data_Entrada": "2018-05-18",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 782,
+    "Valor": 136,
+    "Data_Entrada": "2019-09-28",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 783,
+    "Valor": 175,
+    "Data_Entrada": "2019-05-07",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 784,
+    "Valor": 117,
+    "Data_Entrada": "2018-02-13",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 785,
+    "Valor": 153,
+    "Data_Entrada": "2018-10-14",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 786,
+    "Valor": 121,
+    "Data_Entrada": "2019-09-30",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 787,
+    "Valor": 162,
+    "Data_Entrada": "2018-08-12",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 788,
+    "Valor": 172,
+    "Data_Entrada": "2018-03-07",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 789,
+    "Valor": 252,
+    "Data_Entrada": "2018-01-08",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 790,
+    "Valor": 174,
+    "Data_Entrada": "2018-08-02",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 791,
+    "Valor": 110,
+    "Data_Entrada": "2019-08-20",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 792,
+    "Valor": 250,
+    "Data_Entrada": "2019-06-12",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 793,
+    "Valor": 282,
+    "Data_Entrada": "2018-07-30",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 794,
+    "Valor": 116,
+    "Data_Entrada": "2019-05-01",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 795,
+    "Valor": 40,
+    "Data_Entrada": "2019-06-11",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 796,
+    "Valor": 18,
+    "Data_Entrada": "2019-02-01",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 797,
+    "Valor": 22,
+    "Data_Entrada": "2018-05-10",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 798,
+    "Valor": 161,
+    "Data_Entrada": "2019-01-21",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 799,
+    "Valor": 29,
+    "Data_Entrada": "2019-11-15",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 800,
+    "Valor": 222,
+    "Data_Entrada": "2019-09-15",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 801,
+    "Valor": 222,
+    "Data_Entrada": "2018-09-22",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 802,
+    "Valor": 167,
+    "Data_Entrada": "2018-07-09",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 803,
+    "Valor": 272,
+    "Data_Entrada": "2019-06-06",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 804,
+    "Valor": 132,
+    "Data_Entrada": "2018-02-23",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 805,
+    "Valor": 105,
+    "Data_Entrada": "2018-11-19",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 806,
+    "Valor": 221,
+    "Data_Entrada": "2018-07-31",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 807,
+    "Valor": 177,
+    "Data_Entrada": "2018-03-22",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 808,
+    "Valor": 196,
+    "Data_Entrada": "2018-08-08",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 809,
+    "Valor": 221,
+    "Data_Entrada": "2018-03-29",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 810,
+    "Valor": 189,
+    "Data_Entrada": "2019-03-15",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 811,
+    "Valor": 128,
+    "Data_Entrada": "2019-06-01",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 812,
+    "Valor": 138,
+    "Data_Entrada": "2019-06-30",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 813,
+    "Valor": 160,
+    "Data_Entrada": "2019-10-17",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 814,
+    "Valor": 6,
+    "Data_Entrada": "2019-07-12",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 815,
+    "Valor": 284,
+    "Data_Entrada": "2019-06-18",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 816,
+    "Valor": 52,
+    "Data_Entrada": "2019-05-01",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 817,
+    "Valor": 179,
+    "Data_Entrada": "2019-03-13",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 818,
+    "Valor": 229,
+    "Data_Entrada": "2018-11-04",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 819,
+    "Valor": 267,
+    "Data_Entrada": "2017-12-25",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 820,
+    "Valor": 167,
+    "Data_Entrada": "2019-04-01",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 821,
+    "Valor": 212,
+    "Data_Entrada": "2018-05-26",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 822,
+    "Valor": 263,
+    "Data_Entrada": "2018-08-19",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 823,
+    "Valor": 277,
+    "Data_Entrada": "2017-12-27",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 824,
+    "Valor": 13,
+    "Data_Entrada": "2019-08-15",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 825,
+    "Valor": 255,
+    "Data_Entrada": "2018-03-03",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 826,
+    "Valor": 180,
+    "Data_Entrada": "2018-06-08",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 827,
+    "Valor": 218,
+    "Data_Entrada": "2019-07-14",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 828,
+    "Valor": 112,
+    "Data_Entrada": "2018-01-07",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 829,
+    "Valor": 206,
+    "Data_Entrada": "2018-12-21",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 830,
+    "Valor": 287,
+    "Data_Entrada": "2018-03-13",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 831,
+    "Valor": 149,
+    "Data_Entrada": "2019-03-25",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 832,
+    "Valor": 289,
+    "Data_Entrada": "2019-01-02",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 833,
+    "Valor": 137,
+    "Data_Entrada": "2019-10-27",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 834,
+    "Valor": 261,
+    "Data_Entrada": "2019-01-29",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 835,
+    "Valor": 242,
+    "Data_Entrada": "2019-07-10",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 836,
+    "Valor": 52,
+    "Data_Entrada": "2018-03-17",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 837,
+    "Valor": 220,
+    "Data_Entrada": "2019-06-02",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 838,
+    "Valor": 189,
+    "Data_Entrada": "2019-01-23",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 839,
+    "Valor": 14,
+    "Data_Entrada": "2018-04-22",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 840,
+    "Valor": 50,
+    "Data_Entrada": "2019-11-24",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 841,
+    "Valor": 82,
+    "Data_Entrada": "2018-10-16",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 842,
+    "Valor": 8,
+    "Data_Entrada": "2019-07-25",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 843,
+    "Valor": 5,
+    "Data_Entrada": "2017-12-20",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 844,
+    "Valor": 103,
+    "Data_Entrada": "2019-10-26",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 845,
+    "Valor": 6,
+    "Data_Entrada": "2019-04-03",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 846,
+    "Valor": 86,
+    "Data_Entrada": "2019-01-01",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 847,
+    "Valor": 27,
+    "Data_Entrada": "2018-05-06",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 848,
+    "Valor": 224,
+    "Data_Entrada": "2019-02-04",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 849,
+    "Valor": 151,
+    "Data_Entrada": "2019-11-15",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 850,
+    "Valor": 122,
+    "Data_Entrada": "2019-11-17",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 851,
+    "Valor": 212,
+    "Data_Entrada": "2018-05-13",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 852,
+    "Valor": 52,
+    "Data_Entrada": "2018-03-23",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 853,
+    "Valor": 64,
+    "Data_Entrada": "2018-05-11",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 854,
+    "Valor": 177,
+    "Data_Entrada": "2019-02-15",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 855,
+    "Valor": 194,
+    "Data_Entrada": "2019-02-17",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 856,
+    "Valor": 38,
+    "Data_Entrada": "2019-02-20",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 857,
+    "Valor": 256,
+    "Data_Entrada": "2017-12-20",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 858,
+    "Valor": 34,
+    "Data_Entrada": "2018-02-20",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 859,
+    "Valor": 217,
+    "Data_Entrada": "2018-11-15",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 860,
+    "Valor": 216,
+    "Data_Entrada": "2018-08-20",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 861,
+    "Valor": 275,
+    "Data_Entrada": "2018-10-09",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 862,
+    "Valor": 287,
+    "Data_Entrada": "2018-01-08",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 863,
+    "Valor": 104,
+    "Data_Entrada": "2019-09-01",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 864,
+    "Valor": 191,
+    "Data_Entrada": "2017-12-24",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 865,
+    "Valor": 97,
+    "Data_Entrada": "2019-01-06",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 866,
+    "Valor": 88,
+    "Data_Entrada": "2018-11-18",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 867,
+    "Valor": 180,
+    "Data_Entrada": "2019-01-17",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 868,
+    "Valor": 163,
+    "Data_Entrada": "2018-03-31",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 869,
+    "Valor": 234,
+    "Data_Entrada": "2018-05-27",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 870,
+    "Valor": 200,
+    "Data_Entrada": "2019-09-19",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 871,
+    "Valor": 76,
+    "Data_Entrada": "2019-04-08",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 872,
+    "Valor": 158,
+    "Data_Entrada": "2019-10-31",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 873,
+    "Valor": 255,
+    "Data_Entrada": "2018-08-10",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 874,
+    "Valor": 73,
+    "Data_Entrada": "2018-08-13",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 875,
+    "Valor": 71,
+    "Data_Entrada": "2018-09-28",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 876,
+    "Valor": 118,
+    "Data_Entrada": "2019-11-03",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 877,
+    "Valor": 280,
+    "Data_Entrada": "2018-05-19",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 878,
+    "Valor": 208,
+    "Data_Entrada": "2018-03-26",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 879,
+    "Valor": 36,
+    "Data_Entrada": "2019-02-11",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 880,
+    "Valor": 217,
+    "Data_Entrada": "2018-09-24",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 881,
+    "Valor": 240,
+    "Data_Entrada": "2018-02-06",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 882,
+    "Valor": 52,
+    "Data_Entrada": "2018-03-31",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 883,
+    "Valor": 35,
+    "Data_Entrada": "2018-01-30",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 884,
+    "Valor": 20,
+    "Data_Entrada": "2019-05-25",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 885,
+    "Valor": 195,
+    "Data_Entrada": "2017-12-14",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 886,
+    "Valor": 62,
+    "Data_Entrada": "2018-04-04",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 887,
+    "Valor": 260,
+    "Data_Entrada": "2018-08-28",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 888,
+    "Valor": 291,
+    "Data_Entrada": "2018-09-04",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 889,
+    "Valor": 16,
+    "Data_Entrada": "2018-07-01",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 890,
+    "Valor": 76,
+    "Data_Entrada": "2018-04-06",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 891,
+    "Valor": 295,
+    "Data_Entrada": "2019-05-31",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 892,
+    "Valor": 21,
+    "Data_Entrada": "2018-09-20",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 893,
+    "Valor": 297,
+    "Data_Entrada": "2018-10-03",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 894,
+    "Valor": 216,
+    "Data_Entrada": "2019-07-21",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 895,
+    "Valor": 13,
+    "Data_Entrada": "2019-10-17",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 896,
+    "Valor": 261,
+    "Data_Entrada": "2018-09-30",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 897,
+    "Valor": 264,
+    "Data_Entrada": "2019-02-27",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 898,
+    "Valor": 266,
+    "Data_Entrada": "2018-01-14",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 899,
+    "Valor": 21,
+    "Data_Entrada": "2018-02-01",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 900,
+    "Valor": 71,
+    "Data_Entrada": "2019-01-13",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 901,
+    "Valor": 140,
+    "Data_Entrada": "2019-01-30",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 902,
+    "Valor": 128,
+    "Data_Entrada": "2018-03-05",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 903,
+    "Valor": 126,
+    "Data_Entrada": "2018-02-16",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 904,
+    "Valor": 199,
+    "Data_Entrada": "2018-02-20",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 905,
+    "Valor": 207,
+    "Data_Entrada": "2019-07-04",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 906,
+    "Valor": 132,
+    "Data_Entrada": "2018-02-04",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 907,
+    "Valor": 49,
+    "Data_Entrada": "2018-03-24",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 908,
+    "Valor": 273,
+    "Data_Entrada": "2019-10-29",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 909,
+    "Valor": 276,
+    "Data_Entrada": "2019-01-07",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 910,
+    "Valor": 228,
+    "Data_Entrada": "2018-12-11",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 911,
+    "Valor": 121,
+    "Data_Entrada": "2017-12-10",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 912,
+    "Valor": 72,
+    "Data_Entrada": "2018-11-05",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 913,
+    "Valor": 24,
+    "Data_Entrada": "2018-08-01",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 914,
+    "Valor": 70,
+    "Data_Entrada": "2018-04-03",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 915,
+    "Valor": 192,
+    "Data_Entrada": "2018-01-23",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 916,
+    "Valor": 142,
+    "Data_Entrada": "2019-07-19",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 917,
+    "Valor": 212,
+    "Data_Entrada": "2019-10-20",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 918,
+    "Valor": 154,
+    "Data_Entrada": "2018-10-31",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 919,
+    "Valor": 231,
+    "Data_Entrada": "2018-10-16",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 920,
+    "Valor": 201,
+    "Data_Entrada": "2018-10-07",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 921,
+    "Valor": 253,
+    "Data_Entrada": "2018-11-03",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 922,
+    "Valor": 147,
+    "Data_Entrada": "2018-04-27",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 923,
+    "Valor": 23,
+    "Data_Entrada": "2019-04-11",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 924,
+    "Valor": 257,
+    "Data_Entrada": "2019-03-16",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 925,
+    "Valor": 221,
+    "Data_Entrada": "2019-03-05",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 926,
+    "Valor": 236,
+    "Data_Entrada": "2019-05-01",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 927,
+    "Valor": 68,
+    "Data_Entrada": "2018-10-10",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 928,
+    "Valor": 45,
+    "Data_Entrada": "2018-01-28",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 929,
+    "Valor": 296,
+    "Data_Entrada": "2018-05-10",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 930,
+    "Valor": 286,
+    "Data_Entrada": "2019-01-01",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 931,
+    "Valor": 138,
+    "Data_Entrada": "2019-09-22",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 932,
+    "Valor": 140,
+    "Data_Entrada": "2019-10-03",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 933,
+    "Valor": 156,
+    "Data_Entrada": "2019-03-12",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 934,
+    "Valor": 129,
+    "Data_Entrada": "2018-07-02",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 935,
+    "Valor": 192,
+    "Data_Entrada": "2019-05-29",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 936,
+    "Valor": 3,
+    "Data_Entrada": "2019-10-10",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 937,
+    "Valor": 39,
+    "Data_Entrada": "2018-06-03",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 938,
+    "Valor": 159,
+    "Data_Entrada": "2019-01-27",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 939,
+    "Valor": 11,
+    "Data_Entrada": "2019-03-06",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 940,
+    "Valor": 291,
+    "Data_Entrada": "2019-08-12",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 941,
+    "Valor": 205,
+    "Data_Entrada": "2018-04-01",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 942,
+    "Valor": 161,
+    "Data_Entrada": "2018-01-05",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 943,
+    "Valor": 38,
+    "Data_Entrada": "2019-02-24",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 944,
+    "Valor": 218,
+    "Data_Entrada": "2018-12-26",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 945,
+    "Valor": 151,
+    "Data_Entrada": "2019-06-21",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 946,
+    "Valor": 140,
+    "Data_Entrada": "2018-11-29",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 947,
+    "Valor": 131,
+    "Data_Entrada": "2019-07-24",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 948,
+    "Valor": 218,
+    "Data_Entrada": "2018-05-09",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 949,
+    "Valor": 157,
+    "Data_Entrada": "2019-07-28",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 950,
+    "Valor": 150,
+    "Data_Entrada": "2019-09-21",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 951,
+    "Valor": 46,
+    "Data_Entrada": "2018-02-16",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 952,
+    "Valor": 218,
+    "Data_Entrada": "2019-04-15",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 953,
+    "Valor": 285,
+    "Data_Entrada": "2018-02-19",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 954,
+    "Valor": 250,
+    "Data_Entrada": "2019-05-01",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 955,
+    "Valor": 29,
+    "Data_Entrada": "2019-04-20",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 956,
+    "Valor": 99,
+    "Data_Entrada": "2019-07-09",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 957,
+    "Valor": 195,
+    "Data_Entrada": "2018-10-08",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 958,
+    "Valor": 170,
+    "Data_Entrada": "2019-08-14",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 959,
+    "Valor": 64,
+    "Data_Entrada": "2019-04-17",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 960,
+    "Valor": 100,
+    "Data_Entrada": "2018-05-13",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 961,
+    "Valor": 199,
+    "Data_Entrada": "2018-12-15",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 962,
+    "Valor": 259,
+    "Data_Entrada": "2018-04-04",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 963,
+    "Valor": 110,
+    "Data_Entrada": "2018-01-27",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 964,
+    "Valor": 31,
+    "Data_Entrada": "2019-10-26",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 965,
+    "Valor": 224,
+    "Data_Entrada": "2018-06-29",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 966,
+    "Valor": 10,
+    "Data_Entrada": "2019-01-09",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 967,
+    "Valor": 149,
+    "Data_Entrada": "2018-03-31",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 968,
+    "Valor": 208,
+    "Data_Entrada": "2019-09-30",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 969,
+    "Valor": 114,
+    "Data_Entrada": "2018-05-30",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 970,
+    "Valor": 235,
+    "Data_Entrada": "2019-10-31",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 971,
+    "Valor": 94,
+    "Data_Entrada": "2018-03-15",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 972,
+    "Valor": 236,
+    "Data_Entrada": "2019-07-09",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 973,
+    "Valor": 20,
+    "Data_Entrada": "2019-06-28",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 974,
+    "Valor": 53,
+    "Data_Entrada": "2019-11-22",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 975,
+    "Valor": 124,
+    "Data_Entrada": "2018-05-07",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 976,
+    "Valor": 109,
+    "Data_Entrada": "2018-07-25",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 977,
+    "Valor": 229,
+    "Data_Entrada": "2018-12-19",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 978,
+    "Valor": 95,
+    "Data_Entrada": "2018-04-07",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 979,
+    "Valor": 235,
+    "Data_Entrada": "2019-06-20",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 980,
+    "Valor": 95,
+    "Data_Entrada": "2017-12-15",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 981,
+    "Valor": 142,
+    "Data_Entrada": "2019-10-05",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 982,
+    "Valor": 283,
+    "Data_Entrada": "2018-12-12",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 983,
+    "Valor": 215,
+    "Data_Entrada": "2018-01-25",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 984,
+    "Valor": 105,
+    "Data_Entrada": "2019-04-06",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 985,
+    "Valor": 292,
+    "Data_Entrada": "2019-10-30",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 986,
+    "Valor": 47,
+    "Data_Entrada": "2019-11-22",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 987,
+    "Valor": 87,
+    "Data_Entrada": "2018-11-23",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 988,
+    "Valor": 244,
+    "Data_Entrada": "2019-03-17",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 989,
+    "Valor": 164,
+    "Data_Entrada": "2018-09-24",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 990,
+    "Valor": 8,
+    "Data_Entrada": "2019-03-18",
+    "Id_Usuario": 3
+  },
+  {
+    "Id_Entrada": 991,
+    "Valor": 77,
+    "Data_Entrada": "2018-02-11",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 992,
+    "Valor": 155,
+    "Data_Entrada": "2018-11-04",
+    "Id_Usuario": 2
+  },
+  {
+    "Id_Entrada": 993,
+    "Valor": 6,
+    "Data_Entrada": "2019-07-05",
+    "Id_Usuario": 4
+  },
+  {
+    "Id_Entrada": 994,
+    "Valor": 74,
+    "Data_Entrada": "2019-02-23",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 995,
+    "Valor": 125,
+    "Data_Entrada": "2019-03-30",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 996,
+    "Valor": 73,
+    "Data_Entrada": "2018-05-13",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 997,
+    "Valor": 24,
+    "Data_Entrada": "2019-08-07",
+    "Id_Usuario": 5
+  },
+  {
+    "Id_Entrada": 998,
+    "Valor": 253,
+    "Data_Entrada": "2019-04-04",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 999,
+    "Valor": 43,
+    "Data_Entrada": "2019-10-16",
+    "Id_Usuario": 1
+  },
+  {
+    "Id_Entrada": 1000,
+    "Valor": 138,
+    "Data_Entrada": "2019-02-12",
+    "Id_Usuario": 2
+  }
+]

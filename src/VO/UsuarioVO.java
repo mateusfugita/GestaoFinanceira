@@ -8,6 +8,18 @@ public class UsuarioVO extends PadraoVO {
     private float saldo;
     private int idade;
 
+    private static UsuarioVO uniqueInstance;
+
+    private UsuarioVO(){
+    }
+
+    public static synchronized UsuarioVO getInstance(){
+        if(uniqueInstance == null)
+            uniqueInstance = new UsuarioVO();
+        return uniqueInstance;
+    }
+
+
     public String getNome() {
         return nome;
     }
