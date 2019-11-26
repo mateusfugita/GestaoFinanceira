@@ -7,16 +7,15 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="mysql-connector-java-8.0.18" level="project" />
-    <orderEntry type="library" exported="" name="jfoenix-8.0.8" level="project" />
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/Arquivos/json-simple-1.1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/json-simple-1.1.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="mysql-connector-java-5.1.41" level="project" />
   </component>
 </module>
